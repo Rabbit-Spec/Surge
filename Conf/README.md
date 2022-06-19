@@ -22,7 +22,8 @@ Surge最低支持版本 :<br>
 >**AppStore 版 4.9.3 或更新版本**<br>
 >**TestFlight 版 4.11.0 (2014) 或更新版本**
 ### 2. 配置文件链接
-> **稳定版 :** https://github.com/Rabbit-Spec/Surge/blob/Master/Conf/Surge.conf<br>
+> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Surge.conf<br>
+> **无emoji表情版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Surge-noemoji.conf<br>
 ### 3. 使用方式
 复制我的配置文件内容 -> 打开 Surge -> 新建空白配置 -> 粘贴 -> 修改配置对应参数 -> 完成!
 
