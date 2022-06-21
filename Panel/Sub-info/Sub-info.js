@@ -2,18 +2,18 @@
  * 由@mieqq编写
  * 原脚本地址：https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js
  * 由@Rabbit-Spec修改
- * 更新日期：2022.06.11
- * 版本：1.3
+ * 更新日期：2022.06.21
+ * 版本：1.6
  */
 
 示例↓↓↓ 
 ----------------------------------------
 
-[Script]
-Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js,script-update-interval=0,argument=url=[URL encode 后的机场节点链接]&reset_day=1&title=Nexitally&icon=externaldrive.fill.badge.icloud&color=#007aff
-
 [Panel]
-Sub_info = script-name=Sub_info,update-interval=600
+Sub_info = script-name=Sub_info,update-interval=3600
+
+[Script]
+Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-info/Sub-info.js,script-update-interval=0,argument=url=[URL encode 后的机场节点链接]&reset_day=1&title=Nexitally&icon=externaldrive.fill.badge.icloud=#007aff
 
 ----------------------------------------
 
