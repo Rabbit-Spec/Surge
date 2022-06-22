@@ -19,7 +19,7 @@
 >**AppStore 版 4.9.3 或更新版本**<br>
 >**TestFlight 版 4.11.0 (2014) 或更新版本**
 ### 2. 模块安装链接
-> **稳定版 :** https://github.com/Rabbit-Spec/Surge/blob/Master/Panel/Group-Panel/Group-Panel.sgmodule<br>
+> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Timecard/Timecard.sgmodule<br>
 
 ### 3. 安装方式
 打开 Surge -> 模块 -> 新建本地模块 -> 复制粘贴上方的安装链接里的模块内容到本地（不是复制链接！） -> 在Script中必须修改的参数：group：你策略组的名称 -> 完成!
