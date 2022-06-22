@@ -3,7 +3,9 @@
 <h4 align="center">一个可以显示还需要摸鱼多少天的面板 </h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Group-Panel/img/Group-Panel.jpg" width="300"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Timecard/img/1.jpg" width="300"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Timecard/img/2.jpg" width="300"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Timecard/img/3.jpg" width="300"></img>
 </p>
 
 ## 功能
