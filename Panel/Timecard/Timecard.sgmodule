@@ -1,5 +1,6 @@
 #!name=节假日信息
 #!desc=显示节假日的信息
+
 [Panel]
 Timecard = script-name=Timecard,update-interval=3600
 
