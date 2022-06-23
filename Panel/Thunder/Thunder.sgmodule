@@ -1,8 +1,0 @@
-#!name=迅雷SVIP解锁
-#!desc=解锁迅雷SVIP功能
-
-[MITM]
-hostname = %APPEND% xluser-ssl.xunlei.com
-
-[Script]
-thunder = type=http-response,pattern=^https:\/\/xluser-ssl\.xunlei\.com\/xluser\.core\.login\/v3\/getuserinfo$,requires-body=1,script-path=https://raw.githubusercontent.com/jsj0622/Surge/main/xunlei.js,script-update-interval=0,max-size=0
