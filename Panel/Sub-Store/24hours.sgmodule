@@ -2,4 +2,4 @@
 #!desc=托管订阅更新
 
 [Script]
-Sub Store = type=cron,cronexp=15 0 * * *,script-path=https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/dist/cron-sync-artifacts.min.js,script-update-interval=0,wake-system=1
+Sub Store = type=cron,cronexp=0 01 * * *,script-path=https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/dist/cron-sync-artifacts.min.js,script-update-interval=0,wake-system=1
