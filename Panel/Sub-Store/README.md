@@ -31,7 +31,7 @@
 > **凌晨0点开始每6个小时同步 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/6hours.sgmodule<br>
 > **早上5点开始每12个小时同步 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/12hours.sgmodule<br>
 > **凌晨1点开始每24个小时同步 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/24hours.sgmodule<br>
-通常情况下建议使用「0点开始每24个小时更新」这个版本。
+通常情况下建议使用「凌晨1点开始每24个小时同步」这个版本。
 
 ### 3. 安装方式
 打开 Surge -> 模块 -> 安装新模块... -> 复制粘贴上方的安装链接 -> 完成!
