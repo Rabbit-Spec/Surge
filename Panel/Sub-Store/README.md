@@ -3,11 +3,23 @@
 <h4 align="center">一个可以使用cron脚本定时将订阅同步至gist的模块 </h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/img/Sub-Store.PNG"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/img/Sub-Store.PNG" width="1080"></img>
 </p>
 
 ## 功能
-1. 在后台定时将订阅同步至gist
+1. 使用cron脚本运行
+2. 拥有比比快捷指令同步更高的成功率
+3. 在后台定时将Sub-Store的订阅同步至gist
+
+### 需要配合@Peng-YM大佬的Sub-Store模块一起使用
+> **稳定版 :** https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule<br>
+
+## 使用 Sub-Store
+1. 开启MitM安装并信任证书。
+2. 开启脚本功能开关。
+3. 使用 Safari 打开这个 https://sub.store 如网页正常打开并且未弹出任何错误提示，说明 Sub-Store 已经配置成功。
+4. 可以把 Sub-Store 添加到主屏幕，即可获得类似于 APP 的使用体验。
+5. 更详细的使用指南请参考[文档](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)。
 
 ## How to use
 ### 1. 安装环境
@@ -16,8 +28,8 @@
 >**AppStore 版 4.9.3 或更新版本**<br>
 >**TestFlight 版 4.11.0 (2014) 或更新版本**
 ### 2. 模块安装链接
-> **0点开始每6个小时更新 :** https://github.com/Rabbit-Spec/Surge/blob/Master/Panel/Group-Panel/Group-Panel.sgmodule<br>
-> **0点开始每24个小时更新 :** https://github.com/Rabbit-Spec/Surge/blob/Master/Panel/Group-Panel/Group-Panel.sgmodule<br>
+> **0点开始每6个小时同步 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/6hours.sgmodule<br>
+> **0点开始每24个小时同步 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/24hours.sgmodule<br>
 通常情况下建议使用「0点开始每24个小时更新」这个版本。
 
 ### 3. 安装方式
@@ -33,7 +45,7 @@
 (检查方式为 Surge -> 脚本 -> 脚本编辑器 -> 载入 -> Group-Panel -> 检查代码是否与网页版本相同**
 
 ## 共同作者
-**fishingworld<br>
+**Peng-YM<br>
 **Rabbit-Spec<br>
 
 __以上順序不分排名__
