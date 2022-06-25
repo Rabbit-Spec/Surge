@@ -3,7 +3,7 @@
 <h4 align="center">一个可以使用cron脚本定时将订阅同步至gist的模块 </h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/img/Sub-Store.PNG" width="1080"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/img/Sub-Store.jpg" width="1080"></img>
 </p>
 
 ## 功能
