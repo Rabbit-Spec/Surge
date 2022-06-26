@@ -44,7 +44,7 @@ const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (
       } else if (status==STATUS_AVAILABLE){
         //console.log(2)
         console.log(region)
-        disney_result="Disney+: 已解锁 ➟ "+region.toUpperCase()
+        disney_result="Disney+: 已解锁的区域："+region.toUpperCase()
         // console.log(result["Disney"])
       } else if (status==STATUS_NOT_AVAILABLE) {
         //console.log(3)
@@ -103,7 +103,7 @@ panel_result['content'] = content
         if (code === 'Not Available') {
           youtube_check_result += '不支持解锁'
         } else {
-          youtube_check_result += '已解锁 ➟ ' + code.toUpperCase()
+          youtube_check_result += '已解锁的区域：' + code.toUpperCase()
         }
       })
       .catch((error) => {
@@ -159,7 +159,7 @@ panel_result['content'] = content
         if (code === 'Not Found') {
           return inner_check(80018499)
         }
-        netflix_check_result += '已完整解锁 ➟ ' + code.toUpperCase()
+        netflix_check_result += '已完整解锁的区域：' + code.toUpperCase()
         return Promise.reject('BreakSignal')
       })
       .then((code) => {
@@ -167,7 +167,7 @@ panel_result['content'] = content
           return Promise.reject('Not Available')
         }
   
-        netflix_check_result += '仅解锁自制剧 ➟ ' + code.toUpperCase()
+        netflix_check_result += '仅解锁自制剧的区域：' + code.toUpperCase()
         return Promise.reject('BreakSignal')
       })
       .catch((error) => {
