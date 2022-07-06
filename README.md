@@ -1,12 +1,13 @@
 # Surge自用配置以及模块和脚本
-### 本仓库之中所有配置/脚本纯属自用备份
-### 请不要fork，自行同步
 
 ### 配置链接
 > **稳定版 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Conf<br>
 
 ### 模块链接
 > **稳定版 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel<br>
+
+### 本仓库之中所有配置/脚本纯属自用备份
+### 请不要fork，自行同步
 
 # 免责声明
 - Rabbit-Spec 本仓库中涉及的任何解锁和解密分析脚本仅用于资源共享和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断。
