@@ -11,9 +11,9 @@
 ## 功能
 1. 简洁的外观配以绿色象征清洁的图标
 2. FlushDNS可以显示当前使用的DNS的延迟情况
-3. FlushDNS模块点击左上角的刷新即可清除DNS缓存
+3. FlushDNS模块点击右上角的刷新即可清除DNS缓存
 4. Surge-FlushDNS可以显示Surge的启动时长
-5. Surge-FlushDNS模块点击左上角的刷新即可清除DNS缓存
+5. Surge-FlushDNS模块点击右上角的刷新即可清除DNS缓存
 
 ## How to use
 ### 1. 安装环境
