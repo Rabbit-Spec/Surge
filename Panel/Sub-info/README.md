@@ -22,7 +22,10 @@
 > **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-info/Sub-info.sgmodule<br>
 
 ### 3. 安装方式
-打开 Surge -> 模块 -> 新建本地模块 -> 复制粘贴上方的安装链接里的模块内容到本地（不是复制链接！） -> 先将带有流量信息的节点订阅链接encode，用encode后的链接替换"url="后面的[机场节点链接] -> 完成!
+打开 Surge -> 模块 -> 新建本地模块 -> 复制粘贴上方的安装链接里的模块内容到本地（不是复制链接！）-> 先将带有流量信息的节点订阅链接encode，用encode后的链接替换"url="后面的[机场节点链接] -> 完成!
+
+**encode链接：** https://www.urlencoder.org
+
 ### 4. 更新模块方式
 **请按照以下步骤更新**<br>
 #### 更新外部资源 : 
