@@ -29,8 +29,8 @@ Surge最低支持版本 :<br>
 复制我的配置文件内容 -> 打开 Surge -> 新建空白配置 -> 起一个名字 -> 粘贴 -> 修改“外部节点”的对应参数 -> 完成!
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/img/3.jpg" width="300"></img>
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/img/4.png" width="1080"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/img/3.jpg" width="350"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/img/4.png" width="650"></img>
 </p>
 
 ## 注意事項
