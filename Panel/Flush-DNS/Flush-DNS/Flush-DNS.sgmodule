@@ -1,8 +1,8 @@
 #!name=Flush DNS
 #!desc=快速清除Surge的DNS缓存
 #!system=ios
-# 更新日期：2022.06.17
-# 版本：1.6
+# 更新日期：2022.08.10
+# 版本：2.0
 
 [Panel]
 FlushDNS = script-name=FlushDNS,update-interval=600
