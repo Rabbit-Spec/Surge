@@ -15,23 +15,23 @@ Surge最低支持版本 :<br>
 ### 2. 模块链接（进入链接以查看使用方式）
 > **DoH :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/DoH<br>
 
-> **Flush-DNS :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Flush-DNS<br>
+> **刷新DNS :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Flush-DNS<br>
 
-> **Group-Panel :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Group-Panel<br>
+> **节点切换 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Group-Panel<br>
 
-> **IP-Check :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/IP-Check<br>
+> **节点iP信息 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/IP-Check<br>
 
-> **Network-Info :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Network-Info<br>
+> **网络信息 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Network-Info<br>
 
-> **Stream-All :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Stream-Allo<br>
+> **流媒体解锁检测 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Stream-Allo<br>
 
 > **Sub-Store :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Sub-Store<br>
 
-> **Sub-info :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Sub-info<br>
+> **机场流量信息 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Sub-info<br>
 
-> **Surge-Pro :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Surge-Pro<br>
+> **Surge启动时长 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Surge-Pro<br>
 
-> **Timecard :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Timecard<br>
+> **节假日信息 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Timecard<br>
 
 ## 我用的机场
 **我用着好用不代表你用着也好用，如果想要入手的话，建议先买一个月体验一下。**<br>
