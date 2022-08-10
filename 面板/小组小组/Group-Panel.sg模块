@@ -5,7 +5,7 @@
 Group-Panel = script-name=Group-Panel,update-interval=1
 
 [Script]
-Group-Panel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Group-Panel/Group-Panel.js,argument=icon=network&color=#86abee&group=✈️节点选择
+Group-Panel = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Group-Panel/Group-Panel.js,argument=icon=network&color=#86abee&group=✈️ 节点选择
   对应参数：
 	icon：图标
 	color：图标颜色
