@@ -15,11 +15,12 @@
 > **稳定版 :** https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule<br>
 
 ## 使用 Sub-Store
-1. 开启MitM安装并信任证书。
-2. 开启脚本功能开关。
-3. 使用 Safari 打开这个 https://sub.store 如网页正常打开并且未弹出任何错误提示，说明 Sub-Store 已经配置成功。
-4. 可以把 Sub-Store 添加到主屏幕，即可获得类似于 APP 的使用体验。
-5. 更详细的使用指南请参考[文档](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)。
+1. 安装Sub-Store模块
+2. 开启MitM安装并信任证书。
+3. 开启脚本功能开关。
+4. 使用 Safari 打开这个 https://sub.store 如网页正常打开并且未弹出任何错误提示，说明 Sub-Store 已经配置成功。
+5. 可以把 Sub-Store 添加到主屏幕，即可获得类似于 APP 的使用体验。
+6. 更详细的使用指南请参考[文档](https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46)。
 
 ## How to use
 ### 1. 安装环境
