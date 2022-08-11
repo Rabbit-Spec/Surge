@@ -28,7 +28,7 @@
 >**AppStore 版 4.9.3 或更新版本**<br>
 >**TestFlight 版 4.11.0 (2014) 或更新版本**
 ### 2. 模块安装链接
-> **凌晨0点开始每6个小时同步 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/6hours.sgmodule<br>
+> **凌晨1点开始每6个小时同步 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/6hours.sgmodule<br>
 > **早上5点开始每12个小时同步 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/12hours.sgmodule<br>
 > **凌晨1点开始每24个小时同步 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/24hours.sgmodule<br>
 通常情况下建议使用「凌晨1点开始每24个小时同步」这个版本。
