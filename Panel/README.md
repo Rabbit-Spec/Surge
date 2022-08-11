@@ -23,7 +23,7 @@ Surge最低支持版本 :<br>
 
 > **网络信息 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Network-Info<br>
 
-> **流媒体解锁检测 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Stream-Allo<br>
+> **流媒体解锁检测 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Stream-All<br>
 
 > **Sub-Store :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Sub-Store<br>
 
