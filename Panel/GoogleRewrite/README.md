@@ -19,7 +19,7 @@
 > **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/GoogleRewrite/GoogleRewrite.sgmodule<br>
 
 ### 3. 安装方式
-打开 Surge -> 模块 -> 新建本地模块 -> 复制粘贴上方的安装链接里的模块内容到本地（不是复制链接！） -> 在Script中必须修改的参数：group：你策略组的名称 -> 完成!
+打开 Surge -> 模块 -> 安装新模块 -> 复制粘贴上方的安装链接 -> 完成!
 ### 4. 更新模块方式
 **请按照以下步骤更新**<br>
 #### 更新模块本身 : 
