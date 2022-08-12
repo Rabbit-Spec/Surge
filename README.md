@@ -47,6 +47,6 @@
 - [@mieqq](https://github.com/mieqq)
 - [@blackmatrix7](https://github.com/blackmatrix7)
 - [@TributePaulWalker](https://github.com/TributePaulWalker)
-### 分流规则作者
+### 分流规则、重写规则及脚本维护者
 - [@blackmatrix7](https://github.com/blackmatrix7)
 ### (排名不分先后，如有遗漏万分抱歉，请联系我加上）
