@@ -45,7 +45,6 @@
 - [@congcong0806](https://github.com/congcong0806)
 - [@fishingworld](https://github.com/fishingworld)
 - [@mieqq](https://github.com/mieqq)
-- [@blackmatrix7](https://github.com/blackmatrix7)
 - [@TributePaulWalker](https://github.com/TributePaulWalker)
 ### 分流规则、重写规则及脚本维护者
 - [@blackmatrix7](https://github.com/blackmatrix7)
