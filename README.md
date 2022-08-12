@@ -14,6 +14,9 @@
 ### 「进阶」分流规则、重写规则及脚本
 > **公开版 :** https://github.com/blackmatrix7/ios_rule_script<br>
 
+### 「进阶」解锁完整的Apple功能和集成服务
+> **公开版 :** https://github.com/VirgilClyne/iRingo<br>
+
 本仓库之中所有配置/脚本纯属自用备份，请不要fork，自行同步。
 
 # 免责声明
