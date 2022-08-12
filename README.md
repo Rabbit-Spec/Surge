@@ -34,8 +34,6 @@
 - ## 补充说明
 - 本仓库只搬运各位大佬的脚本，在此基础上进行修改满足我的需求作为自用库使用，并不负责维护脚本。
 - 不保证所有脚本的可用性。
-- 分流规则推荐：[@blackmatrix7分流规则](https://github.com/blackmatrix7/ios_rule_script)
-
 
 ### 特别感谢以下脚本作者以及整合时参考的作者 
 - [@Nebulosa-Cat](https://github.com/Nebulosa-Cat)
