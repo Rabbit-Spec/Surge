@@ -49,4 +49,7 @@
 - [@TributePaulWalker](https://github.com/TributePaulWalker)
 ### 分流规则、重写规则及脚本维护者
 - [@blackmatrix7](https://github.com/blackmatrix7)
+### 解锁完整的Apple功能和集成服务维护者
+- [@VirgilClyne](https://github.com/VirgilClyne)
+
 ### (排名不分先后，如有遗漏万分抱歉，请联系我加上）
