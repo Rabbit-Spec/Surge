@@ -8,7 +8,7 @@
 </p>
 
 ## 功能
-1.标准版模块点击商品标题就可以显示历史价格。
+1.标准版模块点击商品标题就可以显示历史价格。<br>
 2.Lite版模块在点进商品页面以后会以推送的方式显示历史价格。
 
 ## How to use
@@ -19,7 +19,7 @@
 >**TestFlight 版 4.11.0 (2014) 或更新版本**
 ### 2. 模块安装链接
 > **标准版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/JD_Price/JD_Price.sgmodule<br>
-> **Lite :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/JD_Price/JD_Price-Lite.sgmodule<br>
+> **Lite版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/JD_Price/JD_Price-Lite.sgmodule<br>
 
 ### 3. 安装方式
 打开 Surge -> 模块 -> 安装新模块 -> 复制粘贴上方的安装链接 -> 完成!
@@ -32,8 +32,9 @@
 
 **两次更新之间建议间隔5分钟以上，否则又几率页面缓存文档尚未更新导致更新失败<br>
 
-若标准版模块失效可以联系作者
+---
+#### 若标准版模块失效可以联系作者
 - [@zwf234](https://github.com/zwf234)
 
-若Lite版模块失效可以联系作者
+#### 若Lite版模块失效可以联系作者
 - [@yichahucha](https://github.com/yichahucha)
