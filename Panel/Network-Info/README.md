@@ -1,6 +1,6 @@
 <h1 align="center"> Network-Info (网络信息) </h1>
 
-<h4 align="center"> 一个基于 Surge 4 客户端展示网络信息面板工具 </h4>
+<h4 align="center"> 一个基于 Surge 5 客户端展示网络信息面板工具 </h4>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Network-Info//img/cell.jpg" width="300"></img>
