@@ -36,3 +36,5 @@ Surge最低支持版本 :<br>
 > **TestFlight下载修正/账户管理 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/TestFlight<br>
 
 > **Safari 谷歌搜索重定向 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/GoogleRewrite<br>
+
+> **隐藏状态栏VPN图标 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Hide-VPN-Icon<br>
