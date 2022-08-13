@@ -1,0 +1,6 @@
+#!name=Hide VPN Icon
+#!desc=隐藏VPN图标
+
+[General]
+hide-vpn-icon = true
+
