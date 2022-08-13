@@ -8,7 +8,13 @@
 
 ## 功能
 1. 适用于TestFlight更新时，提示"APP不可用"的问题。
-2. 自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight App。
+2. 自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight App<br>
+
+账户内单个测试版APP允许多方共享：
+- 安装TestFlight账户管理模块
+- 导出：点击测试版APP -> 底部开发者许可协议 -> 复制密钥并分享给对方
+- 导入：TestFlight 右上角"兑换" -> 粘贴密钥 -> 弹出保存成功通知后刷新APP列表
+- 多方共享为实验性功能，双方都需要使用该脚本； 该功能主要解决某些APP的TF名额稀缺的问题
 
 ## How to use
 ### 1. 安装环境
