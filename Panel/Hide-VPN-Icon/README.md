@@ -7,8 +7,7 @@
 </p>
 
 ## 功能
-隐藏状态栏的系统VPN图标。<br>
-该模块可能会导致「Cannot allocate memory」系统错误，请谨慎使用
+隐藏状态栏的系统VPN图标（该模块可能会导致「Cannot allocate memory」系统错误，请谨慎使用）。
 
 ## How to use
 ### 1. 安装环境
