@@ -17,6 +17,9 @@
 ### 「进阶」解锁完整的Apple功能和集成服务
 > **公开版 :** https://github.com/VirgilClyne/iRingo<br>
 
+### 「进阶」Boxjs可以解锁脚本的更多可玩性
+> **公开版 :** https://docs.boxjs.app<br>
+
 本仓库之中所有配置/脚本纯属自用备份，请不要fork，自行同步。
 
 # 免责声明
