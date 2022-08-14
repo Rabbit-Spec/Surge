@@ -2,8 +2,8 @@
  * 由@congcong0806编写
  * 原脚本地址：https://github.com/congcong0806/surge-list/blob/master/Script/ipcheck.js
  * 由@Rabbit-Spec修改
- * 更新日期：2022.06.15
- * 版本：1.1
+ * 更新日期：2022.08.14
+ * 版本：1.5
  */
 
 let url = "http://ip-api.com/json"
