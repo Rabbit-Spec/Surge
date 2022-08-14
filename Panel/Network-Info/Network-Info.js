@@ -79,6 +79,11 @@ function randomString(e = 6) {
 }
 
 function getFlagEmoji(countryCode) {
+
+if (countryCode.toUpperCase() == 'TW') {
+    countryCode = 'CN'
+  }
+
   const codePoints = countryCode
     .toUpperCase()
     .split('')
