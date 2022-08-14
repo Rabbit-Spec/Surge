@@ -23,11 +23,14 @@ $httpClient.get(url, function(error, response, data){
   $done(body);
 });
 
-
 function getFlagEmoji(countryCode) {
-    const codePoints = countryCode
-      .toUpperCase()
-      .split('')
-      .map(char =>  127397 + char.charCodeAt());
-    return String.fromCodePoint(...codePoints);
+      if (countryCode.toUpperCase() == 'TW') {
+    countryCode = 'CN'
+  }
+  const codePoints = countryCode
+    .toUpperCase()
+    .split('')
+    .map(char => 127397 + char.charCodeAt())
+  return String.fromCodePoint(...codePoints)
+
 }
