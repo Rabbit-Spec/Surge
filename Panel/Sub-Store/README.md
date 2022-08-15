@@ -3,8 +3,8 @@
 <h4 align="center">一个本地的多机场节点整合、修改、自定义模块</h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/img/1.PNG" width="1080"></img>
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/img/2.PNG" width="1080"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/img/1.PNG" width="600"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/img/2.PNG" width="600"></img>
 </p>
 
 ## 功能
