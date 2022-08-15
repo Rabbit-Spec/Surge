@@ -28,14 +28,13 @@ Surge最低支持版本 :<br>
 > **适合Surge 5卡片视图（中文） :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Surge-CN.conf<br>
 > **适合Surge 5卡片视图 轻量版（英文） :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Surge-Lite-EN.conf<br>
 ### 3. 使用方式
-复制我的配置文件内容 -> 打开 Surge -> 新建空白配置 -> 起一个名字 -> 粘贴 -> 修改“外部节点”的对应参数 -> 完成!
+复制配置链接 -> 打开 Surge -> 从URL下载配置 -> 粘贴链接 -> 在文本模式中编辑 -> 修改“外部节点”的对应参数 -> 完成!
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/img/3.jpg" width="350"></img>
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/img/4.png" width="650"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/img/7.PNG" width="600"></img>
 </p>
 
 ## 注意事項
-1. 一定要仔细阅读红色箭头所指的位置！
-2. 一定要仔细阅读红色箭头所指的位置！
-3. 一定要仔细阅读红色箭头所指的位置！
+1. 一定要仔细阅读使用方式！
+2. 一定要仔细阅读使用方式！
+3. 一定要仔细阅读使用方式！
