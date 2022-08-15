@@ -1,17 +1,19 @@
-<h1 align="center">Sub Store托管更新</h1>
+<h1 align="center">Sub-Store</h1>
 
-<h4 align="center">一个可以使用cron脚本定时将订阅同步至gist的模块 </h4>
+<h4 align="center">一个本地的多机场节点整合、修改、自定义模块</h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/img/Sub-Store.jpg" width="1080"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/img/1.PNG" width="1080"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Sub-Store/img/2.PNG" width="1080"></img>
 </p>
 
 ## 功能
-1. 使用cron脚本运行
-2. 拥有比比快捷指令同步更高的成功率
-3. 在后台定时将Sub-Store的订阅同步至gist
+1. 可以方便的整合单个或多个机场的节点信息
+2. 可以容易的对机场节点的名字、排序、筛选等进行修改
+3. 可以快捷把整合好的节点信息进行多设备同步
+4. 可以在后台定时将Sub-Store的订阅同步至gist
 
-### 需要配合@Peng-YM大佬的Sub-Store模块一起使用
+### 同步模块需要配合@Peng-YM大佬的Sub-Store本体模块一起使用
 > **稳定版 :** https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule<br>
 
 ## 使用 Sub-Store
