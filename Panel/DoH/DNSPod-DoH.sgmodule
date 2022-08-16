@@ -1,4 +1,4 @@
-#!name = DoH
+#!name = DNSPod-DoH
 #!desc = 使用腾讯DNS-over-HTTPS (DoH)
 
 [General]
