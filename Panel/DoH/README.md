@@ -8,8 +8,7 @@
 
 ## 功能
 1. 可以较为有效的防止运营商DNS污染
-2. 使用阿里DoH服务来加密传输以保证隐私
-3. 如果想要修改DNS/DoH信息，只需要修改此模块里相应的参数即可，不必每次都修改配置文件。
+2. 使用腾讯/阿里DoH服务来加密传输以保证隐私
 
 ## How to use
 ### 1. 安装环境
@@ -18,7 +17,8 @@
 >**AppStore 版 4.9.3 或更新版本**<br>
 >**TestFlight 版 4.11.0 (2014) 或更新版本**
 ### 2. 模块安装链接
-> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/DoH/DoH.sgmodule<br>
+> **腾讯云DoH :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/DoH/DNSPod-DoH.sgmodule<br>
+> **阿里云DoH :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/DoH/Ali-DoH.sgmodule<br>
 
 ### 3. 安装方式
 打开 Surge -> 模块 -> 安装新模块... -> 复制粘贴上方的安装链接 -> 完成!
