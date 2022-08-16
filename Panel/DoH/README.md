@@ -3,7 +3,8 @@
 <h4 align="center">一个覆盖你配置文件DNS的模块 </h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/DoH/img/DoH.jpg" width="300"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/DoH/img/1.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/DoH/img/2.PNG" width="300"></img>
 </p>
 
 ## 功能
