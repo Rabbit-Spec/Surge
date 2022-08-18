@@ -336,7 +336,6 @@ function removeTimeLine(data) {
     }
 }
 
-
 function removeHomeVip(data) {
     if (!data.header) {
         return data;
@@ -349,6 +348,7 @@ function removeHomeVip(data) {
     let vipView = data.header.vipView;
     if (!vipCenter) {
         return data;
+    }   
 }
    
 //移除tab2的假通知
