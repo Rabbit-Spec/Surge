@@ -336,21 +336,6 @@ function removeTimeLine(data) {
     }
 }
 
-function removeHomeVip(data) {
-    if (!data.header) {
-        return data;
-    }
-    data.header.avatar.badgeUrl = 'https://h5.sinaimg.cn/upload/100/888/2021/04/07/avatar_vip_golden.png';
-    data.header.desc.content = '微博认证：Surge';
-    // data.items[0].title.content = '0';
-    let vipCenter = data.header.vipCenter;
-    let vipIcon = data.header.vipIcon;
-    let vipView = data.header.vipView;
-    if (!vipCenter) {
-        return data;
-    }   
-}
-   
 //移除tab2的假通知
 function removeVideoRemind(data) {
     data.bubble_dismiss_time = 0;
