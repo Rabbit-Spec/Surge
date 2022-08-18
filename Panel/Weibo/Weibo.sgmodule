@@ -11,6 +11,10 @@
 
 [Script]
 # > 微博个人信息
+主页 = type=http-response,pattern=^https?:\/\/api\.weibo\.cn\/2\/profile\?gsid=,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Weibo/JS/Profile.js
+
+个人信息 = type=http-response,pattern=^https?:\/\/api\.weibo\.cn\/2\/users\/(show|relation),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Weibo/JS/UserShow.js
+
 消息列表 = type=http-response,pattern=^https?:\/\/api\.weibo\.cn\/2\/(direct_messages\/user_list|messageflow\/notice)\?gsid=,requires-body=1,max-size=0,script-path=https://hub.nan.ge/Script/Weibo/Message.js
 
 # > 微博去广告
