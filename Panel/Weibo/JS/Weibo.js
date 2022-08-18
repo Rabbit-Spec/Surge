@@ -336,6 +336,127 @@ function removeTimeLine(data) {
     }
 }
 
+
+function removeHomeVip(data) {
+    if (!data.header) {
+        return data;
+    }
+    data.header.avatar.badgeUrl = 'https://h5.sinaimg.cn/upload/100/888/2021/04/07/avatar_vip_golden.png';
+    data.header.desc.content = '微博认证：Surge 5';
+    // data.items[0].title.content = '0';
+    let vipCenter = data.header.vipCenter;
+    let vipIcon = data.header.vipIcon;
+    let vipView = data.header.vipView;
+    if (!vipCenter) {
+        return data;
+    }
+    if (vipCenter) {
+        if (vipCenter.icon) vipCenter.icon.iconUrl = 'https://h5.sinaimg.cn/upload/1071/1468/2021/12/22/hy_dongtu.gif';
+        if (vipCenter.dot) vipCenter.dot.iconUrl = 'https://h5.sinaimg.cn/upload/100/888/2021/03/22/jiantougaocheng.png';
+        if (vipCenter.content.contents) vipCenter.content.contents[2].content = '会员中心';
+        if (vipCenter.title) vipCenter.title.content = '会员中心';
+    }
+
+    if (vipIcon) {
+        vipIcon.iconUrl = 'https:\/\/h5.sinaimg.cn\/upload\/1004\/409\/2021\/06\/08\/feed_icon_100vip_7.png';
+        vipIcon.style.width = '15';
+        vipIcon.style.height = '18';
+    }
+    if (vipView) {
+        if (vipView.content1 && vipView.content1.contents && vipView.content1.contents.length > 1) {
+            vipView.content1.contents[0].iconUrl = 'https://h5.sinaimg.cn/upload/100/1734/2022/06/01/vip7_title.png';
+            vipView.content1.contents[2].content = '您是尊贵的终身VIP用户';
+            vipView.content1.contents[2].style.textColor = '#BB5416';
+            vipView.content1.contents[2].style.textColorDark = '#AC521C';
+        }
+        if (vipView.content2) vipView.content2.texts = [
+            {
+                "type": "richText",
+                "contents": [
+                    {
+                        "type": "text",
+                        "style": {
+                            "textColor": "#E1834D",
+                            "textColorDark": "#D0743F",
+                            "textSize": 12
+                        },
+                        "content": "一见钟情，再见倾心。"
+                    },
+                    {
+                        "type": "icon",
+                        "style": {
+                            "width": 10,
+                            "height": 10,
+                            "darkMode": "urlAppend"
+                        },
+                        "iconUrl": "https:\/\/h5.sinaimg.cn\/upload\/100\/1734\/2022\/06\/01\/vip7_subtitle.png"
+                    }
+                ]
+            },
+            {
+                "type": "richText",
+                "contents": [
+                    {
+                        "type": "text",
+                        "style": {
+                            "textColor": "#E1834D",
+                            "textColorDark": "#D0743F",
+                            "textSize": 12
+                        },
+                        "content": "一见钟情，再见倾心。"
+                    },
+                    {
+                        "type": "icon",
+                        "style": {
+                            "width": 10,
+                            "height": 10,
+                            "darkMode": "urlAppend"
+                        },
+                        "iconUrl": "https:\/\/h5.sinaimg.cn\/upload\/100\/1734\/2022\/06\/01\/vip7_subtitle.png"
+                    }
+                ]
+            },
+            {
+                "type": "richText",
+                "contents": [
+                    {
+                        "type": "text",
+                        "style": {
+                            "textColor": "#E1834D",
+                            "textColorDark": "#D0743F",
+                            "textSize": 12
+                        },
+                        "content": "人来人往，繁华似锦。"
+                    },
+                    {
+                        "type": "icon",
+                        "style": {
+                            "width": 10,
+                            "height": 10,
+                            "darkMode": "urlAppend"
+                        },
+                        "iconUrl": "https:\/\/h5.sinaimg.cn\/upload\/100\/1734\/2022\/06\/01\/vip7_subtitle.png"
+                    }
+                ]
+            }
+        ];
+        if (vipView.rightImage) {
+            vipView.rightImage.iconUrl = 'https://h5.sinaimg.cn/upload/100/1734/2022/06/01/vip7_button.png';
+            vipView.rightImage.itemId = 'button_VIP_all';
+        }
+        if (vipView.rightText) {
+            vipView.rightText.content = '会员中心';
+            vipView.rightText.itemId = 'button_VIP_all';
+            vipView.rightText.style.textColor = '#BB5416';
+            vipView.rightText.style.textColorDark = '#AC521C';
+        }
+        if (vipView.bgImage1) vipView.bgImage1.iconUrl = 'https://h5.sinaimg.cn/upload/100/1734/2022/06/08/vip7_bg1.png';
+        vipView.itemId = 'background_VIP';
+    }
+
+    return data;
+}
+
 //移除tab2的假通知
 function removeVideoRemind(data) {
     data.bubble_dismiss_time = 0;
