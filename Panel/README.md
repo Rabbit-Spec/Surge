@@ -40,3 +40,5 @@ Surge最低支持版本 :<br>
 > **隐藏状态栏VPN图标 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Hide-VPN-Icon<br>
 
 > **京东历史价格展示 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/JD_Price<br>
+
+> **微博净化 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Weibo<br>
