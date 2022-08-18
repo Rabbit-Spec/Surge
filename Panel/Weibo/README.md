@@ -1,14 +1,16 @@
-<h1 align="center">TestFlight</h1>
+<h1 align="center">微博净化</h1>
 
-<h4 align="center">区域限制解除/账户管理</h4>
+<h4 align="center">还你一个干净的微博浏览体验</h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/TestFlight/img/1.PNG"
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Weibo/img/1.PNG"
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Weibo/img/2.PNG"
 </p>
 
 ## 功能
-1. 适用于TestFlight更新时，提示"APP不可用"的问题。
-2. 自动存储/合并多个TestFlight账户列表, 并可导出/分享TestFlight App。
+1. 净化各种广告
+2. 修改主页微博认证为Surge Pro
+3. 修改VIP界面显示内容（并不是破解微博VIP）
 
 ## How to use
 ### 1. 安装环境
@@ -31,10 +33,9 @@
 >点击首页最上方打开 Profile 页面 -> 更新外部资源 <br>
 
 **两次更新之间建议 _ 间隔 5 分钟以上_，否则又几率页面缓存文档尚未更新导致更新失败<br>
-(检查方式为 Surge -> 脚本 -> 脚本编辑器 -> 载入 -> 「TestFlight下载修正」或「TestFlight账户管理」 -> 检查代码是否与网页版本相同**
 
 ## 共同作者
-**NobyDa<br>
+**Soonhu<br>
 **Rabbit-Spec<br>
 
 __以上順序不分排名__
