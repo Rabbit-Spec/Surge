@@ -22,7 +22,7 @@ const verified = {
     "oid": ""
   },
   "icon": "https:\/\/h5.sinaimg.cn\/upload\/1059\/799\/2020\/05\/19\/verified.png",
-  "desc": "Surge 5"
+  "desc": "Surge Pro"
 };
 const badge = {
   "uc_domain": 1,
@@ -215,7 +215,7 @@ if (url.indexOf(profile) != -1) {
         "key": 1,
         "weight": 10,
         "sub_key": 0,
-        "desc": "Surge 5"
+        "desc": "Surge Pro"
       }
     ]
   };
@@ -223,9 +223,9 @@ if (url.indexOf(profile) != -1) {
   obj.userInfo.geo_enabled = false;
   obj.userInfo.verified_detail = verified_detail;
   obj.userInfo.svip = 1;
-  obj.userInfo.verified_reason = 'Surge 5';
+  obj.userInfo.verified_reason = 'Surge Pro';
   obj.userInfo.statuses_count = 0;
-  obj.userInfo.orange_v = 'Surge 5';
+  obj.userInfo.orange_v = 'Surge Pro';
   obj.userInfo.verified_level = 2;
   obj.userInfo.verified = true;
   obj.userInfo.has_ability_tag = 1;
@@ -242,7 +242,7 @@ if (url.indexOf(profile) != -1) {
   if (obj.userInfo.infoList[0].actionlog.ext != 'name:verified') {
     obj.userInfo.infoList.splice(0, 0, verified);
   } else {
-    obj.userInfo.infoList[0].desc = 'Surge 5';
+    obj.userInfo.infoList[0].desc = 'Surge Pro';
   }
   obj.userInfo.badge = badge;
 }
@@ -257,7 +257,7 @@ if (url.indexOf(users) != -1) {
         "key": 1,
         "weight": 10,
         "sub_key": 0,
-        "desc": "Surge 5"
+        "desc": "Surge Pro"
       }
     ]
   };
@@ -265,9 +265,9 @@ if (url.indexOf(users) != -1) {
   obj.geo_enabled = false;
   obj.verified_detail = verified_detail;
   obj.svip = 1;
-  obj.verified_reason = "Surge 5";
+  obj.verified_reason = "Surge Pro";
   obj.statuses_count = 0;
-  obj.orange_v = "Surge 5";
+  obj.orange_v = "Surge Pro";
   obj.verified_level = 2;
   obj.verified = true;
   obj.has_ability_tag = 1;
@@ -296,7 +296,7 @@ if (url.indexOf(comments) != -1) {
         "key": 1,
         "weight": 10,
         "sub_key": 0,
-        "desc": "Surge 5"
+        "desc": "Surge Pro"
       }
     ]
   };
@@ -304,9 +304,9 @@ if (url.indexOf(comments) != -1) {
   obj.user.geo_enabled = false;
   obj.user.verified_detail = verified_detail;
   obj.user.svip = 1;
-  obj.user.verified_reason = 'Surge 5';
+  obj.user.verified_reason = 'Surge Pro';
   obj.user.statuses_count = 0;
-  obj.user.orange_v = 'Surge 5';
+  obj.user.orange_v = 'Surge Pro';
   obj.user.verified_level = 2;
   obj.user.verified = true;
   obj.user.has_ability_tag = 1;
@@ -341,7 +341,7 @@ if (url.indexOf(statuses) != -1) {
         "key": 1,
         "weight": 10,
         "sub_key": 0,
-        "desc": "Surge 5"
+        "desc": "Surge Pro"
       }
     ]
   };
@@ -349,9 +349,9 @@ if (url.indexOf(statuses) != -1) {
   obj.user.geo_enabled = false;
   obj.user.verified_detail = verified_detail;
   obj.user.svip = 1;
-  obj.user.verified_reason = 'Surge 5';
+  obj.user.verified_reason = 'Surge Pro';
   obj.user.statuses_count = 0;
-  obj.user.orange_v = 'Surge 5';
+  obj.user.orange_v = 'Surge Pro';
   obj.user.verified_level = 2;
   obj.user.verified = true;
   obj.user.has_ability_tag = 1;

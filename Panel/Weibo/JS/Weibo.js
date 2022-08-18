@@ -342,7 +342,7 @@ function removeHomeVip(data) {
         return data;
     }
     data.header.avatar.badgeUrl = 'https://h5.sinaimg.cn/upload/100/888/2021/04/07/avatar_vip_golden.png';
-    data.header.desc.content = '微博认证：Surge 5';
+    data.header.desc.content = '微博认证：Surge Pro';
     // data.items[0].title.content = '0';
     let vipCenter = data.header.vipCenter;
     let vipIcon = data.header.vipIcon;
