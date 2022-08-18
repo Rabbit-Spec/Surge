@@ -365,7 +365,7 @@ function removeHomeVip(data) {
     if (vipView) {
         if (vipView.content1 && vipView.content1.contents && vipView.content1.contents.length > 1) {
             vipView.content1.contents[0].iconUrl = 'https://h5.sinaimg.cn/upload/100/1734/2022/06/01/vip7_title.png';
-            vipView.content1.contents[2].content = '您是尊贵的终身VIP用户';
+            vipView.content1.contents[2].content = '您是尊贵的Surge用户';
             vipView.content1.contents[2].style.textColor = '#BB5416';
             vipView.content1.contents[2].style.textColorDark = '#AC521C';
         }
@@ -403,7 +403,7 @@ function removeHomeVip(data) {
                             "textColorDark": "#D0743F",
                             "textSize": 12
                         },
-                        "content": "一见钟情，再见倾心。"
+                        "content": "静守时光，以待流年。"
                     },
                     {
                         "type": "icon",
