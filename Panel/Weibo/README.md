@@ -3,8 +3,8 @@
 <h4 align="center">还你一个干净的微博浏览体验</h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Weibo/img/1.PNG"
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Weibo/img/2.PNG"
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Weibo/img/1.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Weibo/img/2.PNG" width="300"></img>
 </p>
 
 ## 功能
@@ -19,9 +19,7 @@
 >**AppStore 版 4.9.3 或更新版本**<br>
 >**TestFlight 版 4.11.0 (2014) 或更新版本**
 ### 2. 模块安装链接
-> **TestFlight区域限制解除 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/TestFlight/TestFlight.sgmodule<br>
-> **TestFlight账户管理 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/TestFlight/TestFlightAccount.sgmodule<br>
-（TestFlight账户管理模块包括了区域限制解除，请不要重复安装。若没有TestFlight的账户管理需求，请直接安装区域限制解除模块）
+> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Weibo/Weibo.sgmodule<br>
 
 ### 3. 安装方式
 打开 Surge -> 模块 -> 安装新模块... -> 复制粘贴上方的安装链接 -> 完成!
