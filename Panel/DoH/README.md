@@ -15,8 +15,8 @@
 ### 1. 安装环境
 **需要有网络调试工具 Surge ，且要付费至具有面板功能**<br>
 最低支持版本 :<br>
->**AppStore 版 4.9.3 或更新版本**<br>
->**TestFlight 版 4.11.0 (2014) 或更新版本**
+>**AppStore 版 Surge 5.0 或更新版本**<br>
+>**TestFlight 版 5.20.0 (2433) 或更新版本**
 ### 2. 模块安装链接
 > **腾讯云DoH :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/DoH/DNSPod-DoH.sgmodule<br>
 > **阿里云DoH :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/DoH/Ali-DoH.sgmodule<br>
