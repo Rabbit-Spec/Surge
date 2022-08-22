@@ -41,6 +41,8 @@ Surge最低支持版本 :<br>
 
 > **京东历史价格展示 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/JD_Price<br>
 
+> **TikTok解锁 :** https://github.com/Semporia/TikTok-Unlock<br>
+
 > **微博净化 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Weibo<br>
 
 > **知乎净化 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Zhihu<br>
