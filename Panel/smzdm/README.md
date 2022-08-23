@@ -19,16 +19,16 @@
 
 
 ### 2. 模块安装链接
-> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Weibo/Weibo.sgmodule<br>
+> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/smzdm/smzdm.sgmodule<br>
 
 ### 3. 安装方式
 打开 Surge -> 模块 -> 安装新模块... -> 复制粘贴上方的安装链接 -> 完成!
 
-需要开启MitM并信任证书，需要开启Rewrite，需要开启脚本
+#### **需要开启MitM并信任证书，需要开启Rewrite，需要开启脚本#### **
 
 ### 4. 使用说明
 
-#### **Web端获取Cookie：**
+#### **Web端获取Cookie：#### **
 
 使用Safari，不要使用第三方浏览器！
 
@@ -47,11 +47,8 @@
 
 **两次更新之间建议 _ 间隔 5 分钟以上_，否则又几率页面缓存文档尚未更新导致更新失败<br>
 
-## 共同作者
-**Soonhu<br>
-**Rabbit-Spec<br>
-
-__以上順序不分排名__
+#### 若什么值得买模块失效可以联系作者
+- [@blackmatrix7](https://github.com/blackmatrix7)
 
 ## 我用的机场
 **我用着好用不代表你用着也好用，如果想要入手的话，建议先买一个月体验一下。**<br>
