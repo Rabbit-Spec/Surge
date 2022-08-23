@@ -20,12 +20,11 @@
 >**AppStore 版 4.9.3 或更新版本**<br>
 >**TestFlight 版 4.11.0 (2014) 或更新版本**
 ### 2. 模块安装链接
-> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Weibo/Tieba.sgmodule<br>
+> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Panel/Tieba/Tieba.sgmodule<br>
 
 ### 3. 安装方式
 打开 Surge -> 模块 -> 安装新模块... -> 复制粘贴上方的安装链接 -> 完成!
-#### 需要开启MitM并信任证书
-#### 需要开启脚本
+#### 需要开启MitM并信任证书，需要开启脚本
 ### 4. 更新模块方式
 **请按照以下步骤更新**<br>
 #### 更新模块本身 : 
