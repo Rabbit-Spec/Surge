@@ -47,4 +47,6 @@ Surge最低支持版本 :<br>
 
 > **知乎净化 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Zhihu<br>
 
+> **贴吧净化 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Tieba<br>
+
 > **TikTok解锁 :** https://github.com/Semporia/TikTok-Unlock<br>
