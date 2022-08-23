@@ -43,6 +43,8 @@ Surge最低支持版本 :<br>
 
 > **什么值得买「自动签到+去广告」 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/smzdm<br>
 
+> **TikTok解锁 :** https://github.com/Semporia/TikTok-Unlock<br>
+
 > **B站净化 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Bilibili<br>
 
 > **微博净化 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Weibo<br>
@@ -50,5 +52,3 @@ Surge最低支持版本 :<br>
 > **知乎净化 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Zhihu<br>
 
 > **贴吧净化 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Panel/Tieba<br>
-
-> **TikTok解锁 :** https://github.com/Semporia/TikTok-Unlock<br>
