@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Network-Info//img/cell.PNG" width="300"></img>
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Network-Info//img/Wi-Fi.PNg" width="300"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Network-Info//img/Wi-Fi.PNG" width="300"></img>
 </p>
 
 ## 功能
