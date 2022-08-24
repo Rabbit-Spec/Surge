@@ -8,10 +8,10 @@
 
 ## 如何使用
 ### 1. 安装环境
-**最低需要iOS 15系统，否则可能会有兼容问题**<br>
-Surge最低支持版本 :<br>
->**AppStore 版 4.9.3 或更新版本**<br>
->**TestFlight 版 4.11.0 (2014) 或更新版本**
+**需要有网络调试工具 Surge 5.0**<br>
+最低支持版本 :<br>
+>**AppStore 版 Surge 5.0 或更新版本**<br>
+>**TestFlight 版 5.20.0 (2433) 或更新版本**
 
 ### 2. 模块链接（进入链接以查看使用方式）
 > **DoH :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/DoH<br>
