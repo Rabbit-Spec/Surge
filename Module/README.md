@@ -42,6 +42,8 @@
 
 > **京东历史价格展示 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/JD_Price<br>
 
+> **跳过部分国内App的代理检测 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/Skip-Proxy<br>
+
 > **什么值得买「自动签到+去广告」 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/smzdm<br>
 
 > **B站净化 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/Bilibili<br>
