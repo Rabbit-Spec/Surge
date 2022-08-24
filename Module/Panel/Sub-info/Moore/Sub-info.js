@@ -4,7 +4,6 @@
  * 由@Rabbit-Spec修改
  * 更新日期：2022.06.11
  * 版本：1.3
- */
 
 示例↓↓↓ 
 ----------------------------------------
@@ -112,7 +111,7 @@ async function getDataInfo(url) {
 
   return Object.fromEntries(
     data
-      .match(/\w+=[\d.eE+]+/g)
+      .match(/\w+=[\d.eE+-]+/g)
       .map((item) => item.split("="))
       .map(([k, v]) => [k, Number(v)])
   );
