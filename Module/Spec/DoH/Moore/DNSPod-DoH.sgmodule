@@ -1,0 +1,9 @@
+#!name = DNSPod-DoH
+#!desc = 使用腾讯DNS-over-HTTPS (DoH)
+
+[General]
+dns-server = 119.29.29.29, 223.5.5.5
+encrypted-dns-server = https://doh.pub/dns-query
+
+[Host]
+miwifi.com = 192.168.31.1

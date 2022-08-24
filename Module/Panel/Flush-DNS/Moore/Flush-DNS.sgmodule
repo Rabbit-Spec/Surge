@@ -1,0 +1,11 @@
+#!name=Flush DNS
+#!desc=快速清除Surge的DNS缓存
+#!system=ios
+# 更新日期：2022.08.24
+# 版本：2.1
+
+[Panel]
+FlushDNS = script-name=FlushDNS,update-interval=600
+
+[Script]
+FlushDNS = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Flush-DNS/Moore/Flush-DNS.js,argument=title=DNS FLush&icon=cube&color=#afe59a&server=false

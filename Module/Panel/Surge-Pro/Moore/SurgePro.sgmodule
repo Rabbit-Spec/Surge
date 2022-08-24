@@ -1,0 +1,13 @@
+#!name=Surge Pro
+#!desc=显示Surge的启动时间
+#!system=ios
+# 更新日期：2022.06.15
+# 版本：1.5
+
+[Panel]
+#Surge Pro
+SurgePro_ReloadProfile = script-name=SurgePro_ReloadProfile,update-interval=1
+
+[Script]
+#Surge Pro
+SurgePro_ReloadProfile = type=generic,timeout=10,script-path= https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Surge-Pro/Moore/SurgePro.js ,argument=icon=paperplane.circle&color=#f6c970

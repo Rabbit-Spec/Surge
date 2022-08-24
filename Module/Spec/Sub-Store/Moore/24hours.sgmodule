@@ -1,0 +1,6 @@
+#!name=Sub-Store Sync
+#!desc=托管订阅更新
+#!system=ios
+
+[Script]
+Sub-Store Sync = type=cron,cronexp=0 01 * * *,script-path=https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/dist/cron-sync-artifacts.min.js,script-update-interval=0,wake-system=1
