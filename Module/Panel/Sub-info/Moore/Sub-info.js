@@ -2,8 +2,8 @@
  * 由@mieqq编写
  * 原脚本地址：https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js
  * 由@Rabbit-Spec修改
- * 更新日期：2022.06.11
- * 版本：1.3
+ * 更新日期：2022.08.24
+ * 版本：1.5
 
 示例↓↓↓ 
 ----------------------------------------
