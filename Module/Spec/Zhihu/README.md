@@ -3,7 +3,7 @@
 <h4 align="center">还你一个干净的知乎浏览体验</h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Zhihu/img/1.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/Zhihu/img/1.PNG" width="300"></img>
 </p>
 
 ## 功能
