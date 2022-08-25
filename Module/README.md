@@ -54,4 +54,6 @@
 
 > **贴吧净化 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/Tieba<br>
 
+> **贴吧签到 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/Tieba_Checkin<br>
+
 > **TikTok解锁 :** https://github.com/Semporia/TikTok-Unlock<br>
