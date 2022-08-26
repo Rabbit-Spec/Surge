@@ -24,6 +24,7 @@ Surge在获取Cookie时，需要在MITM中设置h2=false，即关闭 MITM over H
 
 ### 2. 模块安装链接
 > **公开版 :** https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_checkin.sgmodule<br>
+> **备用版 :** https://raw.githubusercontent.com/Voldeemort/Surge/main/module/tieba/tieba_checkin.sgmodule<br>
 
 ### 3. 安装方式
 打开 Surge -> 模块 -> 安装新模块... -> 复制粘贴上方的安装链接 -> 完成!
@@ -40,6 +41,7 @@ Surge在获取Cookie时，需要在MITM中设置h2=false，即关闭 MITM over H
 
 #### 若贴吧签到模块失效可以联系作者
 - [@blackmatrix7](https://github.com/blackmatrix7)
+- [@Voldeemort](https://github.com/Voldeemort)
 
 ## 我用的机场
 **我用着好用不代表你用着也好用，如果想要入手的话，建议先买一个月体验一下。**<br>
