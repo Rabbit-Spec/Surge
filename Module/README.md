@@ -56,4 +56,6 @@
 
 > **贴吧签到 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/Tieba_Checkin<br>
 
+> **短信转发 :** https://github.com/xream/scripts/tree/main/surge/modules/sms-forward<br>
+
 > **TikTok解锁 :** https://github.com/Semporia/TikTok-Unlock<br>
