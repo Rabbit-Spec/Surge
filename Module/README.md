@@ -16,6 +16,8 @@
 ### 2. 模块链接（进入链接以查看使用方式）
 > **DoH :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/DoH<br>
 
+> **WARP+ :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/WARP<br>
+
 > **刷新DNS :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/Flush-DNS<br>
 
 > **节点切换 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/Group-Panel<br>
