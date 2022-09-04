@@ -13,7 +13,10 @@
 >**AppStore 版 Surge 5.0 或更新版本**<br>
 >**TestFlight 版 5.20.0 (2433) 或更新版本**
 
-### 2. 模块链接（进入链接以查看使用方式）
+### 2. 常用模块一键安装（用Safari打开以下链接）
+> **快捷指令 :** https://www.icloud.com/shortcuts/e4f14872c925497cac3d8169787b91d0<br>
+
+### 3. 模块链接（进入链接以查看使用方式）
 > **DoH :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/DoH<br>
 
 > **WARP+ :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/WARP<br>
