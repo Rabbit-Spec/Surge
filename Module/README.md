@@ -19,7 +19,7 @@
 ### 3. 模块链接（进入链接以查看使用方式）
 > **DoH :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/DoH<br>
 
-> **WARP+ :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/WARP<br>
+> **WARP+ :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/WARP<br>
 
 > **刷新DNS :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/Flush-DNS<br>
 
@@ -46,6 +46,8 @@
 > **隐藏状态栏VPN图标 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/Hide-VPN-Icon<br>
 
 > **京东历史价格展示 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/JD_Price<br>
+
+> **🌐 通用设置增强 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/General<br>
 
 > **跳过部分国内App的代理检测 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/Skip-Proxy<br>
 
