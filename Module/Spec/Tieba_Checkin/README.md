@@ -23,7 +23,7 @@ Surge在获取Cookie时，需要在MITM中设置h2=false，即关闭 MITM over H
 >**TestFlight 版 4.11.0 (2014) 或更新版本**
 
 ### 2. 模块安装链接
-> **公开版 :** https://raw.githubusercontent.com/Voldeemort/Surge/main/module/tieba/tieba_checkin.sgmodule<br>
+> **公开版 :** https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_signin.sgmodule<br>
 > **备用版 :** https://raw.githubusercontent.com/Voldeemort/Surge/main/module/tieba/tieba_checkin.sgmodule<br>
 
 ### 3. 安装方式
