@@ -41,4 +41,3 @@ __以上排名不分先后__
 ## 我用的机场
 **我用着好用不代表你用着也好用，如果想要入手的话，建议先买一个月体验一下。**<br>
 [「Nexitally」佩奇家主站，一家全线中转线路的高端机场。](https://naixii.com/signupbyemail.aspx?MemberCode=0b532ff85dda43e595fb1ae17843ae6d20211110231626) <br>
-[「Blinkload」主要是 IEPL&BGP 中转，稳定性和速度都很不错。](https://blinkload.to/aff/CLnL) <br>
