@@ -3,8 +3,8 @@
 <h4 align="center">一个本地的多机场节点整合、修改、自定义模块</h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/Sub-Store/img/1.PNG" width="1080"></img>
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/Sub-Store/img/2.PNG" width="1080"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/Sub-Store/img/1.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/Sub-Store/img/2.PNG" width="300"></img>
 </p>
 
 ## 功能
@@ -59,4 +59,3 @@ __以上順序不分排名__
 ## 我用的机场
 **我用着好用不代表你用着也好用，如果想要入手的话，建议先买一个月体验一下。**<br>
 [「Nexitally」佩奇家主站，一家全线中转线路的高端机场。](https://naixii.com/signupbyemail.aspx?MemberCode=0b532ff85dda43e595fb1ae17843ae6d20211110231626) <br>
-[「Blinkload」主要是 IEPL&BGP 中转，稳定性和速度都很不错。](https://blinkload.to/aff/CLnL) <br>
