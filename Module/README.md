@@ -31,6 +31,8 @@
 
 > **流媒体解锁检测 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/Stream-All<br>
 
+> **流媒体解锁检测Lite :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/Stream-All-Lite<br>
+
 > **Sub-Store :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/Sub-Store<br>
 
 > **机场流量信息 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/Sub-info<br>
