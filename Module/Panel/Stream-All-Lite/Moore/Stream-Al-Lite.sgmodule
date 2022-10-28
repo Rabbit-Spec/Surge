@@ -8,4 +8,4 @@
 Stream-All-Lite = script-name=Stream-All-Lite,update-interval=7200
 
 [Script]
-Stream-All-Lite = type=generic,timeout=30,script-path=https://raw.githubusercontent.com/githubdulong/Script/master/Stream-All.js,script-update-interval=0,argument=title=Stream-All&icon=4k.tv.fill&color=#FF2121
+Stream-All-Lite = type=generic,timeout=30,script-path=https://raw.githubusercontent.com/githubdulong/Script/master/Stream-All.js,script-update-interval=0,argument=title=Stream-All&icon=4k.tv&color=#FF2121
