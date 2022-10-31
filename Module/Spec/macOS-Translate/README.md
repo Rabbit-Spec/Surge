@@ -17,7 +17,7 @@
 >**TestFlight 版 5.20.0 (2433) 或更新版本**
 
 ### 2. 模块安装链接
-> **腾讯云DoH :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/macOS-Translate/Moore/macOS-Translate.sgmodule<br>
+> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/macOS-Translate/Moore/macOS-Translate.sgmodule<br>
 
 ### 3. 安装方式
 打开 Surge for Mac -> 更多 -> 模块 -> 从URL安装模块... -> 复制粘贴上方的安装链接 -> 启用模块 -> 完成!
