@@ -19,8 +19,6 @@
 ### 3. 模块链接（进入链接以查看使用方式）
 > **DoH :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/DoH<br>
 
-> **macOS翻译 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/macOS-Translate<br>
-
 > **WARP+ :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/WARP<br>
 
 > **刷新DNS :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/Flush-DNS<br>
@@ -70,3 +68,5 @@
 > **短信转发 :** https://github.com/xream/scripts/tree/main/surge/modules/sms-forward<br>
 
 > **TikTok解锁 :** https://github.com/Semporia/TikTok-Unlock<br>
+
+> **macOS翻译 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/macOS-Translate<br>
