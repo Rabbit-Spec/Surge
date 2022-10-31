@@ -3,7 +3,7 @@
 <h4 align="center">一个可以解决macOS下无法正常使用系统翻译功能的模块 </h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/macOS-Translate/img/1.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/macOS-Translate/img/1.png" width="1080"></img>
 </p>
 
 ## 功能
