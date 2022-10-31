@@ -1,0 +1,6 @@
+#!name=macOS翻译
+#!desc=解决macOS下翻译功能不可用的问题
+
+[General]
+# > 跳过代理
+skip-proxy = seed-sequoia.siri.apple.com, sequoia.apple.com
