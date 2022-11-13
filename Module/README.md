@@ -57,6 +57,8 @@
 
 > **B站净化 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/Bilibili<br>
 
+> **B站签到 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/Bilibili-Login<br>
+
 > **微博净化 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/Weibo<br>
 
 > **知乎净化 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/Zhihu<br>
