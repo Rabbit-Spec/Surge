@@ -13,10 +13,7 @@
 >**AppStore 版 Surge 5.0 或更新版本**<br>
 >**TestFlight 版 5.20.0 (2433) 或更新版本**
 
-### 2. 常用模块一键安装（用Safari打开以下链接）
-> **快捷指令 :** https://www.icloud.com/shortcuts/e4f14872c925497cac3d8169787b91d0<br>
-
-### 3. 模块链接（进入链接以查看使用方式）
+### 2. 模块链接（进入链接以查看使用方式）
 > **DoH :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/DoH<br>
 
 > **WARP+ :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/WARP<br>
@@ -76,4 +73,4 @@
 ## 我用的机场
 **我用着好用不代表你用着也好用，如果想要入手的话，建议先买一个月体验一下。任何机场都有跑路的可能。**<br>
 [「Nexitally」佩奇家主站，一家全线中转线路的高端机场。](https://nxboom.com/signupbyemail.aspx?MemberCode=0b532ff85dda43e595fb1ae17843ae6d20211110231626) <br>
-[「TAG」目前共有90+个国家地区节点，覆盖范围目前是机场里最广的。](https://tagss01.pro#/register?invite=hlnIqYOx) <br>
+[「TAG」目前共有90+个国家地区节点，覆盖范围目前是机场里最广的。](https://tagss01.pro/#/auth/hlnIqYOx) <br>
