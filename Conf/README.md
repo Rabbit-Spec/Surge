@@ -25,7 +25,6 @@ Surge最低支持版本 :<br>
 > **完整版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge.conf<br>
 > **轻量版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Lite.conf<br>
 > **适合Surge 5卡片视图（英文） :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge-EN.conf<br>
-> **适合Surge 5卡片视图（中文） :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge-CN.conf<br>
 > **适合Surge 5卡片视图 轻量版（英文） :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge-Lite-EN.conf<br>
 > **适合Surge 5卡片视图 迷你版（英文） :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge-Mini.conf<br>
 ### 3. 使用方式
