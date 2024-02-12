@@ -8,7 +8,7 @@
 </p>
 
 ## 功能
-DNS over QUIC是DNS通过QUIC协议传输的加密版本。
+DNS over QUIC是DNS通过QUIC协议传输的加密版本。<br>
 QUIC是一种新的协议，它是基于UDP协议的，并且使用了TLS 1.3来加密数据。
 1. 可以较为有效的防止运营商DNS污染
 2. 使用阿里DoQ服务来加密传输以保证隐私
