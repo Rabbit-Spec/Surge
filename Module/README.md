@@ -14,6 +14,8 @@
 >**TestFlight 版 5.20.0 (2433) 或更新版本**
 
 ### 2. 模块链接（进入链接以查看使用方式）
+> **DNS-QUIC :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/DNS-QUIC<br>
+
 > **DoH :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/DoH<br>
 
 > **WARP+ :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/WARP<br>
