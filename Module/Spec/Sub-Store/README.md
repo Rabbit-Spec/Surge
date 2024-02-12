@@ -14,7 +14,7 @@
 4. 可以在后台定时将Sub-Store的订阅同步至gist
 
 ### 同步模块需要配合@Peng-YM大佬的Sub-Store本体模块一起使用
-> **稳定版 :** https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule<br>
+> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/Sub-Store/Moore/Sub-Store.sgmodule<br>
 
 ## 使用 Sub-Store
 1. 安装Sub-Store模块
