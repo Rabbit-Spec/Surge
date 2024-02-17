@@ -28,6 +28,8 @@
 
 > **网络信息 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/Network-Info<br>
 
+> **网络接口信息 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/Interface-Info<br>
+
 > **流媒体解锁检测 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/Stream-All<br>
 
 > **流媒体解锁检测Lite :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Panel/Stream-All-Lite<br>
