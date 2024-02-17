@@ -1,0 +1,12 @@
+#!name=网络接口信息
+#!desc=查询网络接口的网速和流量 https://t.me/zhetengsha
+#!author=@xream https://t.me/zhetengsha
+#!arguments=STYLE:compact,UPDATE-INTERVAL:1,ICON:wifi.router,ICON-COLOR:#6699FF
+#!arguments-desc=STYLE:\n样式\ncompact 紧凑, normal 常规\n\nUPDATE-INTERVAL:\n面板刷新时间\n您可以在这里指定一个小的时间（例如1），以使面板每次自动更新
+
+[Script]
+# Panel
+网络接口信息面板 = type=generic,timeout=120,script-path=https://raw.githubusercontent.com/xream/scripts/main/surge/modules/interface-info/interface-info.js,argument="icon=wifi.router&icon-color=#6699FF&STYLE=ncompact"
+
+[Panel]
+网络接口信息面板 = script-name=网络接口信息面板,update-interval={{{UPDATE-INTERVAL}}}
