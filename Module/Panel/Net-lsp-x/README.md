@@ -17,7 +17,7 @@
 >**AppStore 商店版 5.8.3 或更新版本**<br>
 
 ### 2. 模块安装链接
-> **公开版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Net-lsp-x/Moore/Net-lsp-x.sgmodule<br>
+> **公开版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Net-lsp-x/Moore/net-lsp-x.sgmodule<br>
 
 ### 3. 安裝方式
 打开 Surge -> 模块 -> 安装新模块... -> 复制上方链接地址进行安装 -> 完成!
