@@ -8,8 +8,7 @@
 </p>
 
 ## 功能
-1. 蜂窝网络下显示<br>- 蜂窝数据 ISP  & LTE、SA、NSA 等类型<br>- 本地 IPv4、IPv6 位址<br>- 代理节点 ISP、位置
-2. Wi-Fi 下显示<br>- 本地 IPv4、IPv6 地址<br>- 路由器 IPv4、IPv6 地址<br>- 代理节点 ISP、位置
+1. 显示网络接口信息
 
 ## How to use
 ### 1. 安装环境
