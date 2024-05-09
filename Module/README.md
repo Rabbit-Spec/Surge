@@ -58,6 +58,8 @@
 
 > **什么值得买「自动签到+去广告」 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/smzdm<br>
 
+> **纯净百度搜索 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/Baidu_index<br>
+
 > **B站净化 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/Bilibili<br>
 
 > **B站签到 :** https://github.com/Rabbit-Spec/Surge/tree/Master/Module/Spec/Bilibili-Login<br>
@@ -78,6 +80,6 @@
 
 ## 我用的机场
 **我用着好用不代表你用着也好用，如果想要入手的话，建议先买一个月体验一下。任何机场都有跑路的可能。**<br>
-> **「Nexitally」:** [佩奇家主站，一家全线中转线路的高端机场，延迟低速度快。](https://naixisafe.com/signupbyemail.aspx?MemberCode=0b532ff85dda43e595fb1ae17843ae6d20211110231626) <br>
+> **「Nexitally」:** [佩奇家主站，一家全线中转线路的高端机场，延迟低速度快。](https://naiixi.com/signupbyemail.aspx?MemberCode=0b532ff85dda43e595fb1ae17843ae6d20211110231626) <br>
 
 > **「TAG」:** [目前共有90+个国家地区节点，覆盖范围目前是机场里最广的。](https://tagss04.pro/#/auth/hlnIqYOx) <br>
