@@ -1,0 +1,9 @@
+#!name=Baidu 首页
+#!desc=纯净搜索 @key
+#!category= Key
+
+[Map Local]
+^https?:\/\/(?:www|m)\.baidu\.com(?:\/|\/\?(tn=&)?from=\w+)?$ data="https://raw.githubusercontent.com/Keywos/rule/master/script/baidu_index/html/index.html" header="Content-Type: text/html; charset=utf-8"
+
+[MITM]
+hostname = %APPEND% m.baidu.com,www.baidu.com
