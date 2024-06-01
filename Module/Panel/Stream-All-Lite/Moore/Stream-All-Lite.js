@@ -1,9 +1,14 @@
 /*
- * 由@githubdulong编写
+ * 脚本参考 @Helge_0x00
  * 原脚本地址：https://raw.githubusercontent.com/githubdulong/Script/master/Stream-All.js
  * 由@Rabbit-Spec修改
- * 更新日期：2022.10.28
- * 版本：1.0
+ * 更新日期：2024.06.01
+ * 版本：3.1
+支持使用脚本使用 argument 参数自定义配置，如：argument=title=流媒体解锁检测&icon=play.tv.fill&color=#FF2D55，具体参数如下所示，
+ * title: 面板标题
+ * icon: SFSymbols 图标
+ * color：图标颜色
+ 
  */
 
 let args = getArgs();
@@ -170,7 +175,7 @@ async function check_netflix() {
 
   let netflix_check_result = 'NF: '
 
-  await inner_check(81215567)
+  await inner_check(81280792)
     .then((code) => {
       if (code === 'Not Found') {
         return inner_check(80018499)
