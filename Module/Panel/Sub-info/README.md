@@ -20,10 +20,14 @@
 >**TestFlight 版 4.11.0 (2014) 或更新版本**
 
 ### 2. 模块安装链接
-> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.sgmodule<br>
+> **单机场版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.sgmodule<br>
+> **多机场版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info_Max.sgmodule<br>
 
 ### 3. 安装方式
-打开 Surge -> 模块 -> 新建本地模块 -> 复制粘贴上方的安装链接里的模块内容到本地（不是复制链接！）-> 先将带有流量信息的节点订阅链接encode，用encode后的链接替换"url="后面的[机场节点链接] -> 完成!
+打开 Surge -> 模块 -> 安装新模块 -> 复制粘贴上方的安装链接里的模块链接 -> 将带有流量信息的机场订阅链接encode -> 在「编辑参数」里根据提示进行设置 -> 完成!
+<p align="center">
+<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/img/1.PNG" width="300"></img>
+</p>
 
 **encode链接：** https://www.urlencoder.org
 
