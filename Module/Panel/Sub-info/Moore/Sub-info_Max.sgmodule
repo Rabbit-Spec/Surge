@@ -2,21 +2,21 @@
 #!desc=显示机场剩余流量信息以及套餐到期日期
 #!system=ios
 #!category=机场流量信息
-#!arguments=SCRIPT_1:我的机场1,URL_1:编码后的机场订阅,RESET_Day_1:重置日期,TITLE_1:你机场的名字,SCRIPT_2:#我的机场2,URL_2:编码后的机场订阅,RESET_Day_2:重置日期,TITLE_2:你机场的名字,SCRIPT_3:#我的机场3,URL_3:编码后的机场订阅,RESET_Day_3:重置日期,TITLE_3:你机场的名字
-#!arguments-desc=[参数设置]\n\n⓵ SCRIPT: 默认开启单订阅,如需开启多订阅需修改此参数为不同的机场名称。\n\n⓶ URL: 编码后的机场订阅。\n\n⓷ RESET_DAY: 流量每月重置的日期,如26号就写26,不设置则不显示流量重置日,仅显示到期日期。\n\n⓸ TITLE: 自定义面板标题。
+#!arguments=NAME_1:第一个机场的名字,URL_1:编码后的机场订阅,RESET-Day_1:重置日期,NAME_2:#第二个机场的名字,URL_2:编码后的机场订阅,RESET-Day_2:重置日期,NAME_3:#第三个机场的名字,URL_3:编码后的机场订阅,RESET-Day_3:重置日期
+#!arguments-desc=[参数设置]\n\n⓵ NAME: 写你机场的名字,默认开启单订阅。\n\n⓶ URL: 编码后的机场订阅。\n\n⓷ RESET_DAY: 流量每月重置的日期,如26号就写26,不设置则不显示流量重置日,仅显示到期日期。
 # 更新日期：2024.07.04
-# 版本：4.0
+# 版本：4.1
 
 [Panel]
-{{{SCRIPT_1}}}=script-name={{{SCRIPT_1}}},update-interval=3600
+{{{NAME_1}}}=script-name={{{NAME_1}}},update-interval=3600
 
-{{{SCRIPT_2}}}=script-name={{{SCRIPT_2}}},update-interval=3600
+{{{NAME_2}}}=script-name={{{NAME_2}}},update-interval=3600
 
-{{{SCRIPT_3}}}=script-name={{{SCRIPT_3}}},update-interval=3600
+{{{NAME_3}}}=script-name={{{NAME_3}}},update-interval=3600
 
 [Script]
-{{{SCRIPT_1}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url={{{URL_1}}}&reset_day={{{RESET_Day_1}}}&title={{{TITLE_1}}}&icon=externaldrive.fill.badge.icloud=#007aff
+{{{NAME_1}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url={{{URL_1}}}&reset_day={{{RESET-Day_1}}}&title={{{NAME_1}}}&icon=externaldrive.fill.badge.icloud=#007aff
 
-{{{SCRIPT_2}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url={{{URL_2}}}&reset_day={{{RESET_Day_2}}}&title={{{TITLE_2}}}&icon=internaldrive.fill=#007aff
+{{{NAME_2}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url={{{URL_2}}}&reset_day={{{RESET-Day_2}}}&title={{{NAME_2}}}&icon=internaldrive.fill=#007aff
 
-{{{SCRIPT_3}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url={{{URL_3}}}&reset_day={{{RESET_Day_3}}}&title={{{TITLE_3}}}&icon=externaldrive.connected.to.line.below.fill=#007aff
+{{{NAME_3}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url={{{URL_3}}}&reset_day={{{RESET-Day_3}}}&title={{{NAME_3}}}&icon=externaldrive.connected.to.line.below.fill=#007aff

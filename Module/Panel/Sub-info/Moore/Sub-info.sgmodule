@@ -2,13 +2,13 @@
 #!desc=显示机场剩余流量信息以及套餐到期日期
 #!system=ios
 #!category=机场流量信息
-#!arguments=SCRIPT:我的机场,URL:编码后的机场订阅,RESET_Day:重置日期,TITLE:你机场的名字
-#!arguments-desc=[参数设置]\n\n⓵ SCRIPT: 可修改成你机场的名字。\n\n⓶ URL: 编码后的机场订阅。\n\n⓷ RESET_DAY: 流量每月重置的日期,如26号就写26,不设置则不显示流量重置日,仅显示到期日期。\n\n⓸ TITLE: 自定义面板标题。
+#!arguments=NAME:机场名字,URL:编码后的机场订阅,RESET_Day:重置日期
+#!arguments-desc=[参数设置]\n\n⓵ NAME: 可修改成你机场的名字。\n\n⓶ URL: 编码后的机场订阅。\n\n⓷ RESET_DAY: 流量每月重置的日期,如26号就写26,不设置则不显示流量重置日,仅显示到期日期。
 # 更新日期：2024.07.04
-# 版本：4.0
+# 版本：4.1
 
 [Panel]
-{{{SCRIPT}}}=script-name={{{SCRIPT}}},update-interval=3600
+{{{NAME}}}=script-name={{{NAME}}},update-interval=3600
 
 [Script]
-{{{SCRIPT}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url={{{URL}}}&reset_day={{{RESET_Day}}}&title={{{TITLE}}}&icon=externaldrive.fill.badge.icloud=#007aff
+{{{NAME}}}=type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url={{{URL}}}&reset_day={{{RESET_Day}}}&title={{{NAME}}}&icon=externaldrive.fill.badge.icloud=#007aff
