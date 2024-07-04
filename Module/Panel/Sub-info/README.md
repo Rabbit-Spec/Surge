@@ -16,8 +16,8 @@
 ### 1. 安装环境
 **需要有网络调试工具 Surge ，且要付费至具有面板功能**<br>
 最低支持版本 :<br>
->**AppStore 版 4.9.3 或更新版本**<br>
->**TestFlight 版 4.11.0 (2014) 或更新版本**
+>**AppStore 版 5.11.1 或更新版本**<br>
+>**TestFlight 版 5.100.0 (3273) 或更新版本**
 
 ### 2. 模块安装链接
 > **单机场版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.sgmodule<br>
