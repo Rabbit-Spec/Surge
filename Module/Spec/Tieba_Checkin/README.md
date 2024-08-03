@@ -7,7 +7,7 @@
 </p>
 
 ## 功能
-1.每日上午9:30自动签到，显示签到贴吧总数、成功数量、失败数量。<br>
+1.每日上午9:30自动签到，显示签到贴吧总数、成功数量、失败数量
 2.针对签到失败的贴吧，进行10次，每次间隔2秒的重试，可以极大提高签到成功率。
 
 ## 注意事项
@@ -23,8 +23,7 @@ Surge在获取Cookie时，需要在MITM中设置h2=false，即关闭 MITM over H
 >**TestFlight 版 4.11.0 (2014) 或更新版本**
 
 ### 2. 模块安装链接
-> **公开版 :** https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_signin.sgmodule<br>
-> **备用版 :** https://raw.githubusercontent.com/Voldeemort/Surge/main/module/tieba/tieba_checkin.sgmodule<br>
+> **公开版 :** https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_checkin.sgmodule<br>
 
 ### 3. 安装方式
 打开 Surge -> 模块 -> 安装新模块... -> 复制粘贴上方的安装链接 -> 完成!
@@ -41,4 +40,9 @@ Surge在获取Cookie时，需要在MITM中设置h2=false，即关闭 MITM over H
 
 #### 若贴吧签到模块失效可以联系作者
 - [@blackmatrix7](https://github.com/blackmatrix7)
-- [@Voldeemort](https://github.com/Voldeemort)
+
+## 我用的机场
+**我用着好用不代表你用着也好用，如果想要入手的话，建议先买一个月体验一下。任何机场都有跑路的可能。**<br>
+> **「Nexitally」:** [佩奇家主站，一家全线中转线路的高端机场，延迟低速度快。](https://naiixi.com/signupbyemail.aspx?MemberCode=0b532ff85dda43e595fb1ae17843ae6d20211110231626) <br>
+
+> **「TAG」:** [目前共有90+个国家地区节点，覆盖范围目前是机场里最广的。](https://tagss04.pro/#/auth/hlnIqYOx)
