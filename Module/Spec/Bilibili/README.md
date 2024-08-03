@@ -20,7 +20,7 @@
 >**TestFlight 版 4.11.0 (2014) 或更新版本**
 
 ### 2. 模块安装链接
-> **稳定版 :** https://whatshub.top/sgmodule/biliad.module<br>
+> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/Bilibili/Moore/Bilibili.sgmodule<br>
 
 ### 3. 安装方式
 打开 Surge -> 模块 -> 安装新模块... -> 复制粘贴上方的安装链接 -> 完成!
@@ -38,3 +38,9 @@
 
 #### 若B站净化模块失效可以联系作者
 - [@app2smile](https://github.com/app2smile)
+
+## 我用的机场
+**我用着好用不代表你用着也好用，如果想要入手的话，建议先买一个月体验一下。任何机场都有跑路的可能。**<br>
+> **「Nexitally」:** [佩奇家主站，一家全线中转线路的高端机场，延迟低速度快。](https://naiixi.com/signupbyemail.aspx?MemberCode=0b532ff85dda43e595fb1ae17843ae6d20211110231626) <br>
+
+> **「TAG」:** [目前共有90+个国家地区节点，覆盖范围目前是机场里最广的。](https://tagss04.pro/#/auth/hlnIqYOx)
