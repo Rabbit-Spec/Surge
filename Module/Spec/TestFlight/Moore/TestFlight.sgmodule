@@ -1,5 +1,6 @@
 #!name=TestFlight区域限制解除
 #!desc=该模块适用于TestFlight更新时，提示"APP不可用"的问题。
+#!system=ios
 #!author=NobyDa
 #!repo=https://github.com/NobyDa/Script/tree/master
 
