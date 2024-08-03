@@ -1,10 +1,9 @@
 #!name=Group-Panel
 #!desc=快速切换节点
-#!system=ios
 #!arguments=GROUP:策略组名称,ICON:network,COLOR:#86ABEE
 #!arguments-desc=[参数设置]\n\n⓵ GROUP: 写策略组名称。\n\n⓶ ICON: 自定义面板图标,需为有效的SFSymbolName,如不设置则默认。\n\n⓷ COLOR: 自定义图标颜色,需为颜色的HEX编码。
-# 更新日期：2024.07.07
-# 版本：3.0
+# 更新日期：2024.08.03
+# 版本：3.1
 
 [Panel]
 Group-Panel = script-name=Group-Panel,update-interval=1

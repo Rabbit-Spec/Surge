@@ -1,11 +1,10 @@
 #!name=机场流量信息Max
 #!desc=显示机场剩余流量信息以及套餐到期日期
-#!system=ios
 #!category=机场流量信息
 #!arguments=NAME_1:第一个机场的名字,URL_1:编码后的机场订阅,RESET-Day_1:重置日期,ICON_1:externaldrive.fill.badge.icloud,COLOR_1:#FFB6C1,NAME_2:#第二个机场的名字,URL_2:编码后的机场订阅,RESET-Day_2:重置日期,ICON_2:internaldrive.fill,COLOR_2:#87CEFA,NAME_3:#第三个机场的名字,URL_3:编码后的机场订阅,RESET-Day_3:重置日期,ICON_3:externaldrive.connected.to.line.below.fill,COLOR_3:#E980AB,NAME_4:#第四个机场的名字,URL_4:编码后的机场订阅,RESET-Day_4:重置日期,ICON_4:externaldrive.fill,COLOR_4:#BDDC9D
 #!arguments-desc=[参数设置]\n\n⓵ NAME: 写你机场的名字,默认开启单订阅。\n\n⓶ URL: 编码后的机场订阅。\n\n⓷ RESET_DAY: 流量每月重置的日期,如26号就写26,不设置则不显示流量重置日,仅显示到期日期。\n\n⓸ ICON: 自定义面板图标,需为有效的SFSymbolName,如不设置则默认。\n\n⓹ COLOR: 自定义图标颜色,需为颜色的HEX编码。
-# 更新日期：2024.07.08
-# 版本：4.6
+# 更新日期：2024.08.03
+# 版本：5.0
 
 [Panel]
 {{{NAME_1}}}=script-name={{{NAME_1}}},update-interval=3600

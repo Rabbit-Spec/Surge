@@ -1,9 +1,8 @@
 #!name=Network Info Panel
 #!desc=详细的显示你当前的网络信息
-#!system=ios
 # @Nebulosa-Cat @Rabbit-Spec
-# 更新日期：2022.08.14
-# 版本：3.1
+# 更新日期：2024.08.03
+# 版本：2.0
 
 [Panel]
 NetInfoPanel=title="",content="",style=info,script-name=net-info-panel.js,update-interval=1

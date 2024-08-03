@@ -1,6 +1,7 @@
 #!name=节假日信息
 #!desc=显示节假日的信息
-#!system=ios
+# 更新日期：2024.08.03
+# 版本：2.0
 
 [Panel]
 Timecard = script-name=Timecard,update-interval=3600

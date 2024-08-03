@@ -2,8 +2,8 @@
  * 由@fishingworld编写
  * 原脚本地址：https://raw.githubusercontent.com/fishingworld/something/main/groupPanel.js
  * 由@Rabbit-Spec修改
- * 更新日期：2022.08.24
- * 版本：2.0
+ * 更新日期：2024.08.03
+ * 版本：2.1
 
 示例↓↓↓ 
 ----------------------------------------

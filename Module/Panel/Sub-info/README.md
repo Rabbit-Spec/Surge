@@ -16,18 +16,14 @@
 ### 1. 安装环境
 **需要有网络调试工具 Surge ，且要付费至具有面板功能**<br>
 最低支持版本 :<br>
->**AppStore 版 5.11.1 或更新版本**<br>
->**TestFlight 版 5.100.0 (3273) 或更新版本**
+>**AppStore 版 4.9.3 或更新版本**<br>
+>**TestFlight 版 4.11.0 (2014) 或更新版本**
 
 ### 2. 模块安装链接
-> **单机场版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.sgmodule<br>
-> **多机场版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info_Max.sgmodule<br>
+> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.sgmodule<br>
 
 ### 3. 安装方式
-打开 Surge -> 模块 -> 安装新模块 -> 复制粘贴上方的安装链接里的模块链接 -> 将带有流量信息的机场订阅链接encode -> 在「编辑参数」里根据提示进行设置 -> 完成!
-<p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/img/1.PNG" width="300"></img>
-</p>
+打开 Surge -> 模块 -> 新建本地模块 -> 复制粘贴上方的安装链接里的模块内容到本地（不是复制链接！）-> 先将带有流量信息的节点订阅链接encode，用encode后的链接替换"url="后面的[机场节点链接] -> 完成!
 
 **encode链接：** https://www.urlencoder.org
 
@@ -44,3 +40,14 @@
 **Rabbit-Spec<br>
 
 __以上順序不分排名__
+
+## 我用的机场
+**我用着好用不代表你用着也好用，如果想要入手的话，建议先买一个月体验一下。任何机场都有跑路的可能。**<br>
+[「Nexitally」佩奇家主站，一家全线中转线路的高端机场。](https://naixii.com/signupbyemail.aspx?MemberCode=0b532ff85dda43e595fb1ae17843ae6d20211110231626) <br>
+[「TAG」共有90+个国家地区节点，覆盖范围目前是机场里最广的。](https://tagss.pro#/register?invite=hlnIqYOx) <br>
+
+## 我用的机场
+**我用着好用不代表你用着也好用，如果想要入手的话，建议先买一个月体验一下。任何机场都有跑路的可能。**<br>
+> **「Nexitally」:** [佩奇家主站，一家全线中转线路的高端机场，延迟低速度快。](https://naiixi.com/signupbyemail.aspx?MemberCode=0b532ff85dda43e595fb1ae17843ae6d20211110231626) <br>
+
+> **「TAG」:** [目前共有90+个国家地区节点，覆盖范围目前是机场里最广的。](https://tagss04.pro/#/auth/hlnIqYOx)

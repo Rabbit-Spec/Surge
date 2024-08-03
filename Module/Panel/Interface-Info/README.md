@@ -8,7 +8,8 @@
 </p>
 
 ## 功能
-1. 显示网络接口信息
+1. 蜂窝网络下显示<br>- 蜂窝数据 ISP  & LTE、SA、NSA 等类型<br>- 本地 IPv4、IPv6 位址<br>- 代理节点 ISP、位置
+2. Wi-Fi 下显示<br>- 本地 IPv4、IPv6 地址<br>- 路由器 IPv4、IPv6 地址<br>- 代理节点 ISP、位置
 
 ## How to use
 ### 1. 安装环境
@@ -39,5 +40,6 @@ __以上出场排名不分先后__
 
 ## 我用的机场
 **我用着好用不代表你用着也好用，如果想要入手的话，建议先买一个月体验一下。任何机场都有跑路的可能。**<br>
-[「Nexitally」佩奇家主站，一家全线中转线路的高端机场。](https://naixii.com/signupbyemail.aspx?MemberCode=0b532ff85dda43e595fb1ae17843ae6d20211110231626) <br>
-[「TAG」共有90+个国家地区节点，覆盖范围目前是机场里最广的。](https://tagss.pro#/register?invite=hlnIqYOx) <br>
+> **「Nexitally」:** [佩奇家主站，一家全线中转线路的高端机场，延迟低速度快。](https://naiixi.com/signupbyemail.aspx?MemberCode=0b532ff85dda43e595fb1ae17843ae6d20211110231626) <br>
+
+> **「TAG」:** [目前共有90+个国家地区节点，覆盖范围目前是机场里最广的。](https://tagss04.pro/#/auth/hlnIqYOx)

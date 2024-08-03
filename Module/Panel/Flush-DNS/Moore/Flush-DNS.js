@@ -2,8 +2,8 @@
  * 由@zZPiglet编写
  * 原脚本地址：https://raw.githubusercontent.com/zZPiglet/Task/master/asset/flushDNS.js
  * 由@Rabbit-Spec修改
- * 更新日期：2022.06.17
- * 版本：1.6
+ # 更新日期：2024.08.03
+ # 版本：2.0
  */
 
 !(async () => {
