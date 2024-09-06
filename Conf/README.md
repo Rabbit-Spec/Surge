@@ -17,10 +17,9 @@
 
 ## 如何使用
 ### 1. 安装环境
-**最低需要iOS 15系统，否则可能会有兼容问题**<br>
+**最低需要iOS 17系统，否则可能会有兼容问题**<br>
 Surge最低支持版本 :<br>
->**AppStore 版 4.9.3 或更新版本**<br>
->**TestFlight 版 4.11.0 (2014) 或更新版本**
+>**AppStore 版 5.12.0 或更新版本**<br>
 ### 2. 配置文件链接
 > **完整版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge.conf<br>
 > **轻量版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Lite.conf<br>
