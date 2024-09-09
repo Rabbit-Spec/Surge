@@ -1,7 +1,9 @@
 /*
- * Surge 網路詳情面板
- * @Nebulosa-Cat
- * 詳情請見 README
+ * Surge 网络详情
+ * 由@Nebulosa-Cat编写
+ * 由@Rabbit-Spec翻译
+ * 更新日期：2024.09.09
+ * 版本：3.3
  */
 
 /**
