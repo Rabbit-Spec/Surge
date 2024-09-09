@@ -1,0 +1,13 @@
+#!name=Flush DNS
+#!desc=快速清除Surge的DNS缓存
+#!category=深巷有喵的模块
+#!arguments=TITLE:DNS Flush,ICON:cube,COLOR:#AFE59A
+#!arguments-desc=[参数设置]\n\n⓵ TITLE: 自定义面板标题。\n\n⓶ ICON: 自定义面板图标,需为有效的SFSymbolName,如不设置则默认。\n\n⓷ COLOR: 自定义图标颜色,需为颜色的HEX编码。
+# 更新日期：2024.09.09
+# 版本：3.2
+
+[Panel]
+FlushDNS = script-name=FlushDNS,update-interval=600
+
+[Script]
+FlushDNS = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Flush-DNS/Moore/Flush-DNS.js,argument=title={{{TITLE}}}&icon={{{ICON}}}&color={{{COLOR}}}&server=false
