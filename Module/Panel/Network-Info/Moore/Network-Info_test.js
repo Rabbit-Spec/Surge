@@ -1,9 +1,7 @@
 /*
- * Surge 网络详情
- * 由@Nebulosa-Cat编写
- * 由@Rabbit-Spec翻译
- * 更新日期：2022.08.14
- * 版本：3.1
+ * Surge 網路詳情面板
+ * @Nebulosa-Cat
+ * 詳情請見 README
  */
 
 /**
@@ -56,23 +54,19 @@ class httpMethod {
   }
 }
 
-class loggerUtil {
-  constructor() {
-    this.id = randomString();
-  }
+class logger {
+  static id = randomString();
 
-  log(message) {
+  static log(message) {
     message = `[${this.id}] [ LOG ] ${message}`;
     console.log(message);
   }
 
-  error(message) {
+  static error(message) {
     message = `[${this.id}] [ERROR] ${message}`;
     console.log(message);
   }
 }
-
-var logger = new loggerUtil();
 
 function randomString(e = 6) {
   var t = "ABCDEFGHJKMNPQRSTWXYZabcdefhijkmnprstwxyz2345678",
@@ -163,7 +157,7 @@ function getCellularInfo() {
     if ($network.wifi?.ssid == null && radio) {
       cellularInfo = carrierNames[carrierId] ?
         `${carrierNames[carrierId]} | ${radioGeneration[radio]} - ${radio} ` :
-        `蜂窝数据 | ${radioGeneration[radio]} - ${radio}`;
+        `蜂窝数据| ${radioGeneration[radio]} - ${radio}`;
     }
   }
   return cellularInfo;
