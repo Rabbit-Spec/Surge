@@ -1,8 +1,9 @@
 #!name=Network Info Panel
 #!desc=详细的显示你当前的网络信息
+#!category=深巷有喵的模块
 # @Nebulosa-Cat @Rabbit-Spec
-# 更新日期：2024.08.03
-# 版本：2.0
+# 更新日期：2024.09.09
+# 版本：3.0
 
 [Panel]
 NetInfoPanel=title="",content="",style=info,script-name=net-info-panel.js,update-interval=1
