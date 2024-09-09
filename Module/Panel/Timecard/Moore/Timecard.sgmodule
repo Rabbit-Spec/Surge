@@ -1,7 +1,8 @@
 #!name=节假日信息
 #!desc=显示节假日的信息
-# 更新日期：2024.08.03
-# 版本：2.0
+#!category=深巷有喵的模块
+# 更新日期：2024.09.09
+# 版本：3.3
 
 [Panel]
 Timecard = script-name=Timecard,update-interval=3600
