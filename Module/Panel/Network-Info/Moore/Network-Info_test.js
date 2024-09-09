@@ -3,7 +3,7 @@
  * 由@Nebulosa-Cat编写
  * 由@Rabbit-Spec翻译
  * 更新日期：2024.09.09
- * 版本：3.3
+ * 版本：3.4
  */
 
 /**
@@ -56,19 +56,23 @@ class httpMethod {
   }
 }
 
-class logger {
-  static id = randomString();
+class loggerUtil {
+  constructor() {
+    this.id = randomString();
+  }
 
-  static log(message) {
+  log(message) {
     message = `[${this.id}] [ LOG ] ${message}`;
     console.log(message);
   }
 
-  static error(message) {
+  error(message) {
     message = `[${this.id}] [ERROR] ${message}`;
     console.log(message);
   }
 }
+
+var logger = new loggerUtil();
 
 function randomString(e = 6) {
   var t = "ABCDEFGHJKMNPQRSTWXYZabcdefhijkmnprstwxyz2345678",
@@ -79,11 +83,6 @@ function randomString(e = 6) {
 }
 
 function getFlagEmoji(countryCode) {
-
-if (countryCode.toUpperCase() == 'TW') {
-    countryCode = 'CN'
-  }
-
   const codePoints = countryCode
     .toUpperCase()
     .split('')
