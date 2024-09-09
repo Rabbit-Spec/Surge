@@ -1,7 +1,8 @@
 #!name=流媒体解锁检测Lite
 #!desc=信息面板
-# 更新日期：2024.08.03
-# 版本：2.0
+#!category=深巷有喵的模块
+# 更新日期：2024.09.09
+# 版本：3.3
 
 [Panel]
 Stream-All-Lite = script-name=Stream-All-Lite,update-interval=7200
