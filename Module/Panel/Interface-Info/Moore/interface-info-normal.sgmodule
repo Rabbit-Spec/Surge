@@ -1,10 +1,11 @@
 #!name=网络接口信息
 #!desc=查询网络接口的网速和流量 https://t.me/zhetengsha
+#!category=深巷有喵的模块
 #!author=@xream https://t.me/zhetengsha
 #!arguments=STYLE:compact,UPDATE-INTERVAL:1,ICON:wifi.router,ICON-COLOR:#6699FF
 #!arguments-desc=STYLE:\n样式\ncompact 紧凑, normal 常规\n\nUPDATE-INTERVAL:\n面板刷新时间\n您可以在这里指定一个小的时间（例如1），以使面板每次自动更新
-# 更新日期：2024.08.03
-# 版本：2.0
+# 更新日期：2024.09.09
+# 版本：3.3
 
 [Script]
 # Panel
