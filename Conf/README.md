@@ -40,7 +40,7 @@ Surge最低支持版本 :<br>
 > **轻量版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Lite.conf<br>
 
 **适配两个机场订阅**<br>
-> **Family :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/refs/heads/Master/Conf/Spec/Surge-Family.conff<br>
+> **Family :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/refs/heads/Master/Conf/Spec/Surge-Family.conf<br>
 
 ### 3. 使用方式
 复制配置链接 -> 打开 Surge -> 从URL下载配置 -> 粘贴链接 -> 在文本模式中编辑 -> 修改“外部节点”的对应参数 -> 完成!
