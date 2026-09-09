@@ -1,7 +1,7 @@
 # NAME: 深巷有喵的「Apple」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.09.09 06:30:06
+# UPDATED: 2026.09.10 06:24:29
 # TOTAL: 1616
 
 # ======= 上游同步规则 ========
@@ -1508,7 +1508,6 @@ DOMAIN-SUFFIX,applemusic.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appsto.re
-DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-icloud.cn
@@ -1516,6 +1515,7 @@ DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,appleicloud.cn
 DOMAIN-SUFFIX,applemx-icloud.com
 DOMAIN-SUFFIX,apzones.com
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,icloud-apple.cn
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-content.com.cn
@@ -1604,9 +1604,9 @@ USER-AGENT,locationd*
 USER-AGENT,passd*
 USER-AGENT,Music*
 USER-AGENT,AppleNews*
+USER-AGENT,AppleTV*
 USER-AGENT,com.apple.news*
 USER-AGENT,com.apple.trustd*
-USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
 PROCESS-NAME,CoreLocationAgent
 PROCESS-NAME,WeatherWidget
