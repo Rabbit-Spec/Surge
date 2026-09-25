@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,immersivetranslate.com
 # 小佩宠物
 DOMAIN-SUFFIX,petkit.com
-DOMAIN-WILDCARD,ap*.rtesvc.com
+DOMAIN-SUFFIX,rtesvc.com
 # ASUS
 DOMAIN-SUFFIX,asus.com
 # 1Password
