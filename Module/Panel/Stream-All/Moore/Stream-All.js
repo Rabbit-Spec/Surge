@@ -51,6 +51,8 @@ const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (
         disney_result="Disney+: 未支持 🚫 "
       } else if (status==STATUS_TIMEOUT) {
         disney_result="Disney+: 检测超时 🚦"
+       } else if (status==STATUS_ERROR) {
+         disney_result="Disney+: 检测异常 ❌"
       }
 result.push(disney_result)
 console.log(result)
