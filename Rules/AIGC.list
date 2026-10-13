@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「AIGC」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.10.12 07:32:35
-# TOTAL: 129
+# UPDATED: 2026.10.13 09:56:00
+# TOTAL: 102
 
 # ======= 手动维护规则 ========
 # Cursor
@@ -14,70 +14,59 @@ DOMAIN,ai.google.dev
 DOMAIN,aida.googleapis.com
 DOMAIN,aisandbox-pa.googleapis.com
 DOMAIN,alkalicore-pa.clients6.google.com
-DOMAIN,anthropic-com.ghost.io
-DOMAIN,anthropic.auth0.com
-DOMAIN,anthropic.com.cdn.cloudflare.net
+DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,antigravity-unleash.goog
 DOMAIN,antigravity.google
 DOMAIN,api.github.com
 DOMAIN,api.jetbrains.ai
 DOMAIN,browser-intake-datadoghq.com
-DOMAIN,browser-intake-us5-datadoghq.com
 DOMAIN,cdn.usefathom.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN,gateway.ai.cloudflare.com
+DOMAIN,inference.codeium.com
 DOMAIN,jules.google.com
+DOMAIN,makersuite.google.com
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,openrouter.ai
 DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,robinfrontend-pa.googleapis.com
-DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN,server.codeium.com
+DOMAIN,server.self-serve.windsurf.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,aicode.googleapis.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,algolia.net
-DOMAIN-SUFFIX,android.chat.openai.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,api.statsig.com
-DOMAIN-SUFFIX,app.launchdarkly.com
-DOMAIN-SUFFIX,auth.openai.com
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,cdn.workos.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chat.com
-DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,claudemcpclient.com
-DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,clients6.google.com
-DOMAIN-SUFFIX,clientstream.launchdarkly.com
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
-DOMAIN-SUFFIX,ct.sendgrid.net
+DOMAIN-SUFFIX,cp4.cloudflare.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,desktop.chat.openai.com
 DOMAIN-SUFFIX,dify.ai
-DOMAIN-SUFFIX,events.launchdarkly.com
 DOMAIN-SUFFIX,events.statsigapi.net
-DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
-DOMAIN-SUFFIX,forwarder.workos.com
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,gemini.google
@@ -86,22 +75,18 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,images.workoscdn.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,ios.chat.openai.com
 DOMAIN-SUFFIX,jasper.ai
-DOMAIN-SUFFIX,js.intercomcdn.com
-DOMAIN-SUFFIX,js.stripe.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,o207216.ingest.sentry.io
-DOMAIN-SUFFIX,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,observeit.net
@@ -113,26 +98,14 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,prodregistryv2.org
-DOMAIN-SUFFIX,rum.browser-intake-datadoghq.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,setup.auth.openai.com
-DOMAIN-SUFFIX,setup.workos.com
+DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,sora.com
-DOMAIN-SUFFIX,statsig.com
-DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,tcr9i.chat.openai.com
 DOMAIN-SUFFIX,turn.livekit.cloud
-DOMAIN-SUFFIX,workos.com
-DOMAIN-SUFFIX,workos.imgix.net
 DOMAIN-SUFFIX,x.ai
-IP-ASN,13335,no-resolve
 IP-ASN,20473,no-resolve
-IP-ASN,399358,no-resolve
 IP-CIDR,129.146.3.78/32,no-resolve
-IP-CIDR,160.79.104.0/21,no-resolve
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
-IP-CIDR6,2607:6BC0::/32,no-resolve
