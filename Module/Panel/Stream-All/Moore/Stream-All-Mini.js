@@ -62,6 +62,8 @@ const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (
         disney_result = "D+: \u2612"
       } else if (status == STATUS_TIMEOUT) {
         disney_result = "D+: N/A"
+      } else if (status == STATUS_ERROR) {
+        disney_result = "D+: Error"
       }
       result.push(disney_result)
       console.log(result)
