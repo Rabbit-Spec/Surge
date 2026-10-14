@@ -2,7 +2,6 @@
 DOMAIN-SUFFIX,immersivetranslate.com
 # 小佩宠物
 DOMAIN-SUFFIX,petkit.com
-DOMAIN-SUFFIX,rtesvc.com
 # ASUS
 DOMAIN-SUFFIX,asus.com
 # 1Password
@@ -16,3 +15,5 @@ DOMAIN-KEYWORD,sleep.pokemon
 # 鹅鸭杀
 DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,config.uca.cloud.unity3d.com
+# 猫点饭
+DOMAIN,umami.mao.fan
