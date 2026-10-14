@@ -1,7 +1,7 @@
 # NAME: 深巷有喵的「China」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.10.14 07:40:44
+# UPDATED: 2026.10.15 07:05:24
 # TOTAL: 3763
 
 # ======= 手动维护规则 ========
@@ -9,7 +9,6 @@
 DOMAIN-SUFFIX,immersivetranslate.com
 # 小佩宠物
 DOMAIN-SUFFIX,petkit.com
-DOMAIN-SUFFIX,rtesvc.com
 # ASUS
 DOMAIN-SUFFIX,asus.com
 # 1Password
@@ -23,7 +22,8 @@ DOMAIN-KEYWORD,sleep.pokemon
 # 鹅鸭杀
 DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,config.uca.cloud.unity3d.com
-
+# 猫点饭
+DOMAIN,umami.mao.fan
 # ======= 上游同步规则 ========
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
