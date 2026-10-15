@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「TikTok」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.10.15 07:05:24
-# TOTAL: 33
+# UPDATED: 2026.10.16 06:58:29
+# TOTAL: 36
 
 # ======= 手动维护规则 ========
 DOMAIN-SUFFIX,tiktokcdn.com
@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,bytegecko-i18n.com
 DOMAIN-SUFFIX,byteintlapi.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,capcut.com
+DOMAIN-SUFFIX,capcutapi.com
+DOMAIN-SUFFIX,capcutapi.us
+DOMAIN-SUFFIX,capcutstatic.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,ipstatp.com
