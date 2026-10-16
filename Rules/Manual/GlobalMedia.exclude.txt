@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
