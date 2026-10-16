@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「GlobalMedia」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.10.16 13:49:46
-# TOTAL: 2333
+# UPDATED: 2026.10.16 13:55:42
+# TOTAL: 2330
 
 # ======= 上游同步规则 ========
 DOMAIN,ai.google.dev
@@ -176,9 +176,6 @@ DOMAIN-SUFFIX,channel4.com
 DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,chocotv.com.tw
 DOMAIN-SUFFIX,cinemax.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cnbcfm.com
