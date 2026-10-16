@@ -2,6 +2,8 @@
 DOMAIN-SUFFIX,immersivetranslate.com
 # 小佩宠物
 DOMAIN-SUFFIX,petkit.com
+DOMAIN-SUFFIX,petkit.cn
+DOMAIN-SUFFIX,rtesvc.com
 # ASUS
 DOMAIN-SUFFIX,asus.com
 # 1Password
