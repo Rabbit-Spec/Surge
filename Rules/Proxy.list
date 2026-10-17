@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「Proxy」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.10.17 06:42:55
-# TOTAL: 7011
+# UPDATED: 2026.10.18 06:07:43
+# TOTAL: 7014
 
 # ======= 手动维护规则 ========
 # SNBFORUMS
@@ -211,6 +211,7 @@ DOMAIN-SUFFIX,6parknews.com
 DOMAIN-SUFFIX,7capture.com
 DOMAIN-SUFFIX,7cow.com
 DOMAIN-SUFFIX,7mmtv.tv
+DOMAIN-SUFFIX,7x24hrs.com
 DOMAIN-SUFFIX,8-d.com
 DOMAIN-SUFFIX,85cc.net
 DOMAIN-SUFFIX,85cc.us
@@ -3688,7 +3689,9 @@ DOMAIN-SUFFIX,merlinblog.xyz
 DOMAIN-SUFFIX,meshrep.com
 DOMAIN-SUFFIX,mesotw.com
 DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,metacafe.com
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,metafilter.com
