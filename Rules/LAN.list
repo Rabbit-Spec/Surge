@@ -1,13 +1,15 @@
 # NAME: 深巷有喵的「LAN」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.10.19 06:20:06
-# TOTAL: 140
+# UPDATED: 2026.10.20 07:29:49
+# TOTAL: 142
 
 # ======= 上游同步规则 ========
 DOMAIN,asusrouter.com
 DOMAIN,instant.arubanetworks.com
 DOMAIN,local.adguard.org
+DOMAIN,localhost.weixin.qq.com
+DOMAIN,localhost.work.weixin.qq.com
 DOMAIN,oasisauth.h3c.com
 DOMAIN,router.asus.com
 DOMAIN,setmeup.arubanetworks.com
