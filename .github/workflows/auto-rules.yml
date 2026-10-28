@@ -1,6 +1,6 @@
 # 深巷有喵的「Surge」上游同步规则
-# 版本：1.3.10
-# 日期：2026.09.13
+# 版本：1.3.11
+# 日期：2026.10.28
 # 作者：https://github.com/Rabbit-Spec/Surge
 
 name: Auto-Surge-Rules
@@ -154,6 +154,12 @@ jobs:
           
           URL_PROXY="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Lan/Lan.list"
           process_rule "$URL_PROXY" "LAN.list" "深巷有喵的「LAN」规则"
+
+          URL_PROXY="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list"
+          process_rule "$URL_PROXY" "PayPal.list" "深巷有喵的「PayPal」规则"
+
+          URL_PROXY="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Whatsapp/Whatsapp.list"
+          process_rule "$URL_PROXY" "Whatsapp.list" "深巷有喵的「Whatsapp」规则"
           
           # AMEKIN 仓库
           URL_PROXY="https://raw.githubusercontent.com/AMEKIN/Surge/refs/heads/main/rules/Meta.list"
