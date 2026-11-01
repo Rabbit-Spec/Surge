@@ -57,7 +57,6 @@ jobs:
             if [ -f "$manual_file" ]; then
               echo "# ======= 手动维护规则 ========" >> "$temp_body"
               cat "$manual_file" >> "$temp_body"
-              echo "" >> "$temp_body"
             fi
             
             # B. 写入上游同步规则
@@ -178,8 +177,6 @@ jobs:
           if [ -f "$PROXY_MANUAL" ]; then
             echo "# ======= 手动维护规则 ========" >> "$proxy_temp"
             cat "$PROXY_MANUAL" >> "$proxy_temp"
-            echo "" >> "$proxy_temp"
-            echo "" >> "$proxy_temp"
           fi
           
           # B. Proxy 聚合源
