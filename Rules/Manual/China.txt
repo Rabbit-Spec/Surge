@@ -1,21 +1,21 @@
 # 沉浸式翻译
-DOMAIN-SUFFIX,immersivetranslate.com
+.immersivetranslate.com
 # 小佩宠物
-DOMAIN-SUFFIX,petkit.com
-DOMAIN-SUFFIX,petkit.cn
-DOMAIN-SUFFIX,rtesvc.com
+.petkit.com
+.petkit.cn
+.rtesvc.com
 # ASUS
-DOMAIN-SUFFIX,asus.com
+.asus.com
 # 1Password
-DOMAIN-SUFFIX,agilebits.com
-DOMAIN-SUFFIX,1password.com
-DOMAIN-SUFFIX,1passwordusercontent.com
+.agilebits.com
+.1password.com
+.1passwordusercontent.com
 # 圆刚采集卡
-DOMAIN-SUFFIX,avermedia.com
+.avermedia.com
 # Pokemon Sleep
-DOMAIN-KEYWORD,sleep.pokemon
+.sleep.pokemon
 # 鹅鸭杀
-DOMAIN,cdp.cloud.unity3d.com
-DOMAIN,config.uca.cloud.unity3d.com
+cdp.cloud.unity3d.com
+config.uca.cloud.unity3d.com
 # 猫点饭
-DOMAIN,umami.mao.fan
+umami.mao.fan
