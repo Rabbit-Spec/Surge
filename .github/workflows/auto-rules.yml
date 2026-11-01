@@ -178,6 +178,7 @@ jobs:
             echo "# ======= 手动维护规则 ========" >> "$proxy_temp"
             cat "$PROXY_MANUAL" >> "$proxy_temp"
             echo "" >> "$temp_body"
+            echo "" >> "$temp_body"
           fi
           
           # B. Proxy 聚合源
