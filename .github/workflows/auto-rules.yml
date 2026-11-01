@@ -177,8 +177,7 @@ jobs:
           if [ -f "$PROXY_MANUAL" ]; then
             echo "# ======= 手动维护规则 ========" >> "$proxy_temp"
             cat "$PROXY_MANUAL" >> "$proxy_temp"
-            echo "" >> "$temp_body"
-            echo "" >> "$temp_body"
+            echo "" >> "$proxy_temp"
           fi
           
           # B. Proxy 聚合源
