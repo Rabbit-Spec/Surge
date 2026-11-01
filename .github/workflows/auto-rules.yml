@@ -195,7 +195,6 @@ jobs:
             else
               curl -sL "$url" | grep -v '^#' | grep -v '^[[:space:]]*$' >> "$proxy_temp"
             fi
-            echo "" >> "$proxy_temp"
           done
           
           # C. 合并去重
