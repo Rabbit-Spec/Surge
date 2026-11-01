@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「Proxy」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.01 22:16:33
-# TOTAL: 24441
+# UPDATED: 2026.11.01 22:20:16
+# TOTAL: 24440
 
 # ======= 手动维护规则 ========
 # SNBFORUMS
@@ -20,7 +20,8 @@ DOMAIN-SUFFIX,home-assistant.io
 # BetterDisplay
 DOMAIN-SUFFIX,betterdisplay.pro
 # TikTok
-DOMAIN-SUFFIX,tiktokcdn.com# ======= Telegram ========
+DOMAIN-SUFFIX,tiktokcdn.com
+# ======= Telegram ========
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 IP-CIDR,91.105.192.0/23,no-resolve
 IP-CIDR,91.108.4.0/22,no-resolve
@@ -21019,7 +21020,6 @@ DOMAIN-SUFFIX,tiktok-row.net
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn-eu.com
 DOMAIN-SUFFIX,tiktokcdn-us.com
-DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokd.net
 DOMAIN-SUFFIX,tiktokd.org
 DOMAIN-SUFFIX,tiktokeu-cdn.com
