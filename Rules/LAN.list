@@ -1,19 +1,28 @@
 # NAME: 深巷有喵的「LAN」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.01 07:15:24
-# TOTAL: 142
+# UPDATED: 2026.11.01 22:07:47
+# TOTAL: 174
 
 # ======= 上游同步规则 ========
+DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,asusrouter.com
+DOMAIN,aterm.me
+DOMAIN,console.gl-inet.com
 DOMAIN,instant.arubanetworks.com
 DOMAIN,local.adguard.org
 DOMAIN,localhost.weixin.qq.com
 DOMAIN,localhost.work.weixin.qq.com
+DOMAIN,miwifi.com
 DOMAIN,oasisauth.h3c.com
+DOMAIN,repeater.asus.com
 DOMAIN,router.asus.com
+DOMAIN,routerlogin.com
 DOMAIN,setmeup.arubanetworks.com
+DOMAIN,tplogin.cn
 DOMAIN,www.asusrouter.com
+DOMAIN,www.miwifi.com
+DOMAIN,www.routerlogin.com
 DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 DOMAIN-SUFFIX,10.in-addr.arpa
 DOMAIN-SUFFIX,100.100.in-addr.arpa
@@ -108,14 +117,17 @@ DOMAIN-SUFFIX,98.100.in-addr.arpa
 DOMAIN-SUFFIX,99.100.in-addr.arpa
 DOMAIN-SUFFIX,a.e.f.ip6.arpa
 DOMAIN-SUFFIX,acl4.ssr
+DOMAIN-SUFFIX,asusrouter.com
 DOMAIN-SUFFIX,b.e.f.ip6.arpa
 DOMAIN-SUFFIX,d.f.ip6.arpa
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,home.arpa
+DOMAIN-SUFFIX,huaweimobilewifi.com
 DOMAIN-SUFFIX,kis.v2.scr.kaspersky-labs.com
 DOMAIN-SUFFIX,leike.cc
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
 DOMAIN-SUFFIX,localhost.sec.qq.com
+DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,my.router
 DOMAIN-SUFFIX,p.to
 DOMAIN-SUFFIX,peiluyou.com
@@ -123,10 +135,16 @@ DOMAIN-SUFFIX,phicomm.me
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,router.ctc
 DOMAIN-SUFFIX,routerlogin.com
+DOMAIN-SUFFIX,routerlogin.net
 DOMAIN-SUFFIX,tendawifi.com
+DOMAIN-SUFFIX,tplinkap.net
+DOMAIN-SUFFIX,tplinkmodem.net
+DOMAIN-SUFFIX,tplinkplclogin.net
+DOMAIN-SUFFIX,tplinkrepeater.net
 DOMAIN-SUFFIX,tplinkwifi.net
 DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,ts.net
+DOMAIN-SUFFIX,ui.direct
 DOMAIN-SUFFIX,wifi.cmcc
 DOMAIN-SUFFIX,zte.home
 IP-CIDR,0.0.0.0/8,no-resolve
@@ -138,12 +156,26 @@ IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,192.0.0.0/24,no-resolve
 IP-CIDR,192.0.2.0/24,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,192.31.196.0/24,no-resolve
+IP-CIDR,192.52.193.0/24,no-resolve
 IP-CIDR,192.88.99.0/24,no-resolve
 IP-CIDR,198.18.0.0/15,no-resolve
+IP-CIDR,198.18.0.0/16,no-resolve
 IP-CIDR,198.51.100.0/24,no-resolve
 IP-CIDR,203.0.113.0/24,no-resolve
 IP-CIDR,224.0.0.0/3,no-resolve
+IP-CIDR,224.0.0.0/4,no-resolve
+IP-CIDR6,100::/64,no-resolve
+IP-CIDR6,2001::/23,no-resolve
+IP-CIDR6,2001:db8::/32,no-resolve
+IP-CIDR6,2620:4f:8000::/48,no-resolve
+IP-CIDR6,3fff::/20,no-resolve
+IP-CIDR6,5f00::/16,no-resolve
+IP-CIDR6,64:ff9b:1::/48,no-resolve
+IP-CIDR6,64:ff9b::/96,no-resolve
 IP-CIDR6,::/127,no-resolve
+IP-CIDR6,::1/128,no-resolve
 IP-CIDR6,fc00::/7,no-resolve
+IP-CIDR6,fd00::/8,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,ff00::/8,no-resolve
