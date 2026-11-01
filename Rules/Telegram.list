@@ -1,11 +1,10 @@
 # NAME: 深巷有喵的「Telegram」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.01 22:20:16
-# TOTAL: 15
+# UPDATED: 2026.11.01 22:23:53
+# TOTAL: 14
 
 # ======= 上游同步规则 ========
-DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 IP-CIDR,91.105.192.0/23,no-resolve
 IP-CIDR,91.108.4.0/22,no-resolve
 IP-CIDR,91.108.8.0/21,no-resolve
