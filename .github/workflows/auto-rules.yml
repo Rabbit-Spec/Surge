@@ -1,5 +1,5 @@
 # 深巷有喵的「Surge」上游同步规则
-# 版本：1.4.1
+# 版本：1.4.2
 # 日期：2026.11.02
 # 作者：https://github.com/Rabbit-Spec/Surge
 
@@ -50,43 +50,55 @@ jobs:
             local manual_file="Rules/Manual/${filename_no_ext}.txt"
             local exclude_file="Rules/Manual/${filename_no_ext}.exclude.txt"
             
-            # 创建临时文件存储规则正文
             temp_body=$(mktemp)
             
-            # A. 合并手动追加规则 (处于文件顶部，获取最高去重优先级)
+            # A. 合并手动追加规则（增强：过滤空文件、消除首尾空白、强制标准化换行）
             if [ -f "$manual_file" ]; then
-              echo "# ======= 手动维护规则 ========" >> "$temp_body"
-              cat "$manual_file" >> "$temp_body"
-              echo "" >> "$temp_body"
+              # 剔除 Windows 回车符，并提取有效内容首尾范围
+              local clean_manual
+              clean_manual=$(sed 's/\r//g' "$manual_file" | awk '
+                NF { if (!first) first = NR; last = NR; lines[NR] = $0 }
+                END {
+                  if (first) {
+                    for (i = first; i <= last; i++) print lines[i]
+                  }
+                }
+              ')
+
+              # 仅在存在有效规则内容时才写入区块
+              if [ -n "$clean_manual" ]; then
+                echo "# ======= 手动维护规则 ========" >> "$temp_body"
+                echo "$clean_manual" >> "$temp_body"
+                echo "" >> "$temp_body" # 统一且稳定地输出且仅输出一个空行隔开
+              fi
             fi
             
             # B. 写入上游同步规则
             echo "# ======= 上游同步规则 ========" >> "$temp_body"
             if [ -f "$exclude_file" ] && [ -s "$exclude_file" ]; then
-              # 下载 -> 剔除上游注释 -> 剔除空行 -> 剔除排除列表关键字 -> 写入缓存
-              curl -sL "$source_url" | grep -v '^#' | grep -v '^[[:space:]]*$' | grep -vFf "$exclude_file" >> "$temp_body"
+              curl -sL "$source_url" | sed 's/\r//g' | grep -v '^#' | grep -v '^[[:space:]]*$' | grep -vFf "$exclude_file" >> "$temp_body"
             else
-              # 下载 -> 剔除上游注释 -> 剔除空行 -> 写入缓存
-              curl -sL "$source_url" | grep -v '^#' | grep -v '^[[:space:]]*$' >> "$temp_body"
+              curl -sL "$source_url" | sed 's/\r//g' | grep -v '^#' | grep -v '^[[:space:]]*$' >> "$temp_body"
             fi
             
-            # C. 合并去重
-            sed -i 's/\r//g' "$temp_body"
+            # C. 规则去重（保留注释顺序，去除正文完全重复的行）
             awk '/^#|^[[:space:]]*$/ {print; next} !seen[$0]++' "$temp_body" > "${temp_body}.tmp" && mv "${temp_body}.tmp" "$temp_body"
             
             # D. 统计非注释且非空行的行数
             local rule_count=$(grep -v '^#' "$temp_body" | grep -v '^[[:space:]]*$' | wc -l)
             
-            # E. 构造最终文件：Header + 正文
-            echo "# NAME: $display_name" > "$target_path"
-            echo "# AUTHOR: Rabbit-Spec" >> "$target_path"
-            echo "# REPO: https://github.com/Rabbit-Spec/Surge" >> "$target_path"
-            echo "# UPDATED: $UPDATE_TIME" >> "$target_path"
-            echo "# TOTAL: $rule_count" >> "$target_path"
-            echo "" >> "$target_path"
-            
-            cat "$temp_body" >> "$target_path"
-            rm "$temp_body"
+            # E. 构造最终文件
+            {
+              echo "# NAME: $display_name"
+              echo "# AUTHOR: Rabbit-Spec"
+              echo "# REPO: https://github.com/Rabbit-Spec/Surge"
+              echo "# UPDATED: $UPDATE_TIME"
+              echo "# TOTAL: $rule_count"
+              echo ""
+              cat "$temp_body"
+            } > "$target_path"
+
+            rm -f "$temp_body"
           }
           
           # --- 第一部分：常规规则同步 ---
