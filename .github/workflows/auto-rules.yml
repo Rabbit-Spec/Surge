@@ -52,28 +52,23 @@ jobs:
             
             temp_body=$(mktemp)
             
-            # A. 合并手动追加规则（增强：过滤空文件、消除首尾空白、强制标准化换行）
+            # A. 合并手动追加规则 (去除尾部多余空行，紧凑输出)
             if [ -f "$manual_file" ]; then
-              # 剔除 Windows 回车符，并提取有效内容首尾范围
+              # 剔除 Windows 回车符，并过滤文件末尾悬挂的空白行
               local clean_manual
-              clean_manual=$(sed 's/\r//g' "$manual_file" | awk '
-                NF { if (!first) first = NR; last = NR; lines[NR] = $0 }
-                END {
-                  if (first) {
-                    for (i = first; i <= last; i++) print lines[i]
-                  }
-                }
-              ')
-
-              # 仅在存在有效规则内容时才写入区块
+              clean_manual=$(awk '
+                { sub(/\r$/, "") }
+                /^[[:space:]]*$/ { blank = blank $0 "\n"; next }
+                { printf "%s%s\n", blank, $0; blank = "" }
+              ' "$manual_file")
+              
               if [ -n "$clean_manual" ]; then
                 echo "# ======= 手动维护规则 ========" >> "$temp_body"
                 echo "$clean_manual" >> "$temp_body"
-                echo "" >> "$temp_body" # 统一且稳定地输出且仅输出一个空行隔开
               fi
             fi
             
-            # B. 写入上游同步规则
+            # B. 写入上游同步规则 (紧贴手动规则输出)
             echo "# ======= 上游同步规则 ========" >> "$temp_body"
             if [ -f "$exclude_file" ] && [ -s "$exclude_file" ]; then
               curl -sL "$source_url" | sed 's/\r//g' | grep -v '^#' | grep -v '^[[:space:]]*$' | grep -vFf "$exclude_file" >> "$temp_body"
