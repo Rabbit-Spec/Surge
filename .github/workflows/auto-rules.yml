@@ -191,6 +191,7 @@ jobs:
           # B. Proxy 聚合源
           PROXY_SUBS=(
             "Telegram|https://ruleset.skk.moe/List/ip/telegram.conf"
+            "Github|https://magicrule.pages.dev/data/_shared/artifacts/GitHub_rules_02fb1aed89680882.list"
             "Proxy|https://magicrule.pages.dev/data/_shared/artifacts/Global_rules_b5f3bb33d8a4698a.list"
           )
           
