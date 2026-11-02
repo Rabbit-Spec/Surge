@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「Proxy」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.02 10:08:36
-# TOTAL: 24439
+# UPDATED: 2026.11.02 14:14:55
+# TOTAL: 24477
 
 # ======= 手动维护规则 ========
 # SNBFORUMS
@@ -36,6 +36,80 @@ IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23c::/48,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
+# ======= Github ========
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,copilot-workspace.githubnext.com
+DOMAIN,copilotprodattachments.blob.core.windows.net
+DOMAIN,github-api.arkoselabs.com
+DOMAIN,github-cloud.s3.amazonaws.com
+DOMAIN,github-production-release-asset-2e65be.s3.amazonaws.com
+DOMAIN,github-production-repository-file-5c1aeb.s3.amazonaws.com
+DOMAIN,github-production-repository-image-32fea6.s3.amazonaws.com
+DOMAIN,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+DOMAIN,github-production-user-asset-6210df.s3.amazonaws.com
+DOMAIN,productionresultssa0.blob.core.windows.net
+DOMAIN,productionresultssa1.blob.core.windows.net
+DOMAIN,productionresultssa10.blob.core.windows.net
+DOMAIN,productionresultssa11.blob.core.windows.net
+DOMAIN,productionresultssa12.blob.core.windows.net
+DOMAIN,productionresultssa13.blob.core.windows.net
+DOMAIN,productionresultssa14.blob.core.windows.net
+DOMAIN,productionresultssa15.blob.core.windows.net
+DOMAIN,productionresultssa16.blob.core.windows.net
+DOMAIN,productionresultssa17.blob.core.windows.net
+DOMAIN,productionresultssa18.blob.core.windows.net
+DOMAIN,productionresultssa19.blob.core.windows.net
+DOMAIN,productionresultssa2.blob.core.windows.net
+DOMAIN,productionresultssa3.blob.core.windows.net
+DOMAIN,productionresultssa4.blob.core.windows.net
+DOMAIN,productionresultssa5.blob.core.windows.net
+DOMAIN,productionresultssa6.blob.core.windows.net
+DOMAIN,productionresultssa7.blob.core.windows.net
+DOMAIN,productionresultssa8.blob.core.windows.net
+DOMAIN,productionresultssa9.blob.core.windows.net
+DOMAIN-SUFFIX,atom.io
+DOMAIN-SUFFIX,cafe.github.com
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,dependabot.com
+DOMAIN-SUFFIX,gh.io
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,ghe.com
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
+DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
+DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
+DOMAIN-SUFFIX,github.ai
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.career
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.community
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,github1s.com
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,githubhackathon.com
+DOMAIN-SUFFIX,githubnext.com
+DOMAIN-SUFFIX,githubpreview.dev
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,githubsupport.com
+DOMAIN-SUFFIX,githubuniverse.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,myoctocat.com
+DOMAIN-SUFFIX,npm.community
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,octocaptcha.com
+DOMAIN-SUFFIX,opensource.guide
+DOMAIN-SUFFIX,rawgit.com
+DOMAIN-SUFFIX,rawgithub.com
+DOMAIN-SUFFIX,repo.new
+DOMAIN-SUFFIX,sourcegraph.com
+DOMAIN-SUFFIX,thegithubshop.com
+DOMAIN-KEYWORD,github
 # ======= Proxy ========
 DOMAIN,1password.drift.click
 DOMAIN,3dna.nationbuilder.com
@@ -759,7 +833,6 @@ DOMAIN,content.powerapps.com
 DOMAIN,content.presspage.com
 DOMAIN,content.wepik.com
 DOMAIN,conversiongorilla.com
-DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN,corp-backend.brevo.com
 DOMAIN,cors-proxy.htmldriven.com
 DOMAIN,cover.comicbz.com
@@ -1395,26 +1468,6 @@ DOMAIN,pro2-ui-assets-s3-fy.myportfolio.com
 DOMAIN,prod-images.rippling.com
 DOMAIN,prod.addictinggames.com
 DOMAIN,prodforza.blob.core.windows.net
-DOMAIN,productionresultssa0.blob.core.windows.net
-DOMAIN,productionresultssa1.blob.core.windows.net
-DOMAIN,productionresultssa10.blob.core.windows.net
-DOMAIN,productionresultssa11.blob.core.windows.net
-DOMAIN,productionresultssa12.blob.core.windows.net
-DOMAIN,productionresultssa13.blob.core.windows.net
-DOMAIN,productionresultssa14.blob.core.windows.net
-DOMAIN,productionresultssa15.blob.core.windows.net
-DOMAIN,productionresultssa16.blob.core.windows.net
-DOMAIN,productionresultssa17.blob.core.windows.net
-DOMAIN,productionresultssa18.blob.core.windows.net
-DOMAIN,productionresultssa19.blob.core.windows.net
-DOMAIN,productionresultssa2.blob.core.windows.net
-DOMAIN,productionresultssa3.blob.core.windows.net
-DOMAIN,productionresultssa4.blob.core.windows.net
-DOMAIN,productionresultssa5.blob.core.windows.net
-DOMAIN,productionresultssa6.blob.core.windows.net
-DOMAIN,productionresultssa7.blob.core.windows.net
-DOMAIN,productionresultssa8.blob.core.windows.net
-DOMAIN,productionresultssa9.blob.core.windows.net
 DOMAIN,proxy.beyondwords.io
 DOMAIN,proxy.csidetm.com
 DOMAIN,public-assets.typeform.com
@@ -3836,7 +3889,6 @@ DOMAIN-SUFFIX,atlassian.net
 DOMAIN-SUFFIX,atmeta.com
 DOMAIN-SUFFIX,atnext.com
 DOMAIN-SUFFIX,atom.com
-DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,atomyze.tech
 DOMAIN-SUFFIX,atos.net
 DOMAIN-SUFFIX,atscaleconference.com
@@ -7569,7 +7621,6 @@ DOMAIN-SUFFIX,deno.dev
 DOMAIN-SUFFIX,deno.land
 DOMAIN-SUFFIX,denopkg.com
 DOMAIN-SUFFIX,dentalhypotheses.com
-DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,depositphotos.com
 DOMAIN-SUFFIX,deps.dev
 DOMAIN-SUFFIX,deps.info
@@ -10504,10 +10555,7 @@ DOMAIN-SUFFIX,ggsel.com
 DOMAIN-SUFFIX,ggsel.net
 DOMAIN-SUFFIX,ggsrv.com
 DOMAIN-SUFFIX,ggssl.com
-DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,ghanely.me
-DOMAIN-SUFFIX,ghcr.io
-DOMAIN-SUFFIX,ghe.com
 DOMAIN-SUFFIX,ghettotube.com
 DOMAIN-SUFFIX,ghidra-sre.org
 DOMAIN-SUFFIX,ghostarchive.org
@@ -10564,7 +10612,6 @@ DOMAIN-SUFFIX,girlsxxx.net
 DOMAIN-SUFFIX,giscus.app
 DOMAIN-SUFFIX,gisplanning.com
 DOMAIN-SUFFIX,git-scm.com
-DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,gitbooks.io
@@ -15851,7 +15898,6 @@ DOMAIN-SUFFIX,mynetname.net
 DOMAIN-SUFFIX,mynike.com
 DOMAIN-SUFFIX,mynixos.com
 DOMAIN-SUFFIX,mynumber.org
-DOMAIN-SUFFIX,myoctocat.com
 DOMAIN-SUFFIX,myparagliding.com
 DOMAIN-SUFFIX,mypearson.com
 DOMAIN-SUFFIX,mypicture.info
@@ -16567,8 +16613,6 @@ DOMAIN-SUFFIX,npm.im
 DOMAIN-SUFFIX,npm.io
 DOMAIN-SUFFIX,npmcdn.com
 DOMAIN-SUFFIX,npmfs.com
-DOMAIN-SUFFIX,npmjs.com
-DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,npms.io
 DOMAIN-SUFFIX,npnt.me
 DOMAIN-SUFFIX,npr.org
@@ -16755,7 +16799,6 @@ DOMAIN-SUFFIX,ocry.com
 DOMAIN-SUFFIX,ocsp-certum.com
 DOMAIN-SUFFIX,ocsp-responder.com
 DOMAIN-SUFFIX,october-review.org
-DOMAIN-SUFFIX,octocaptcha.com
 DOMAIN-SUFFIX,oculus-china.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,oculus2014.com
@@ -16985,7 +17028,6 @@ DOMAIN-SUFFIX,openrec.tv
 DOMAIN-SUFFIX,openresty.org
 DOMAIN-SUFFIX,openreview.net
 DOMAIN-SUFFIX,opensea.io
-DOMAIN-SUFFIX,opensource.guide
 DOMAIN-SUFFIX,opensourceinsight.dev
 DOMAIN-SUFFIX,opensourceinsights.dev
 DOMAIN-SUFFIX,openspec.dev
@@ -18248,7 +18290,6 @@ DOMAIN-SUFFIX,rationalwiki.org
 DOMAIN-SUFFIX,ravencoinipfs-gateway.com
 DOMAIN-SUFFIX,ravenjs.com
 DOMAIN-SUFFIX,ravensoftware.com
-DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgit.org
 DOMAIN-SUFFIX,rawstory.com
 DOMAIN-SUFFIX,raxcdn.com
@@ -19880,7 +19921,6 @@ DOMAIN-SUFFIX,sourcecraft.dev
 DOMAIN-SUFFIX,sourceforge.com
 DOMAIN-SUFFIX,sourceforge.io
 DOMAIN-SUFFIX,sourceforge.net
-DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,sourcehut.org
 DOMAIN-SUFFIX,sourcewadio.com
 DOMAIN-SUFFIX,sourcingforebay.net
@@ -24333,7 +24373,6 @@ DOMAIN-KEYWORD,dsn.algolia.net
 DOMAIN-KEYWORD,duolingo
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,hotmail
