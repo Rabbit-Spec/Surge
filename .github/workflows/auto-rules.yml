@@ -1,6 +1,6 @@
 # 深巷有喵的「Surge」上游同步规则
 # 版本：1.4.1
-# 日期：2026.11.01
+# 日期：2026.11.02
 # 作者：https://github.com/Rabbit-Spec/Surge
 
 name: Auto-Surge-Rules
@@ -57,6 +57,7 @@ jobs:
             if [ -f "$manual_file" ]; then
               echo "# ======= 手动维护规则 ========" >> "$temp_body"
               cat "$manual_file" >> "$temp_body"
+              echo "" >> "$temp_body"
             fi
             
             # B. 写入上游同步规则
