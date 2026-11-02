@@ -1,13 +1,14 @@
 # NAME: 深巷有喵的「AIGC」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.02 09:54:54
+# UPDATED: 2026.11.02 10:04:50
 # TOTAL: 102
 
 # ======= 手动维护规则 ========
 # Cursor
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
+
 # ======= 上游同步规则 ========
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,ai.google.dev
