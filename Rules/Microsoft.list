@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「Microsoft」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.04 08:30:36
-# TOTAL: 846
+# UPDATED: 2026.11.05 08:48:36
+# TOTAL: 848
 
 # ======= 上游同步规则 ========
 DOMAIN,az764295.vo.msecnd.net
@@ -246,6 +246,7 @@ DOMAIN-SUFFIX,bingpix.com
 DOMAIN-SUFFIX,bingpk.com
 DOMAIN-SUFFIX,bings.com
 DOMAIN-SUFFIX,bingsandbox.com
+DOMAIN-SUFFIX,bingstatic.com
 DOMAIN-SUFFIX,bingtoolbar.com
 DOMAIN-SUFFIX,bingtranslator.com
 DOMAIN-SUFFIX,bingvisualsearch.com
@@ -583,6 +584,7 @@ DOMAIN-SUFFIX,msfteducation.ca
 DOMAIN-SUFFIX,msftidentity.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,msftnet.org
+DOMAIN-SUFFIX,msftstatic.com
 DOMAIN-SUFFIX,msgamesresearch.com
 DOMAIN-SUFFIX,msgamestudios.com
 DOMAIN-SUFFIX,mshome.net

@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「Game」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.04 08:30:36
-# TOTAL: 875
+# UPDATED: 2026.11.05 08:48:36
+# TOTAL: 882
 
 # ======= 上游同步规则 ========
 DOMAIN,a.ppy.sh
@@ -117,6 +117,7 @@ DOMAIN-SUFFIX,activematter.game
 DOMAIN-SUFFIX,activision.com
 DOMAIN-SUFFIX,activisionblizzard.com
 DOMAIN-SUFFIX,activisionblizzardmedia.com
+DOMAIN-SUFFIX,amdgaming.com
 DOMAIN-SUFFIX,amiibo.com
 DOMAIN-SUFFIX,anthemgame.com
 DOMAIN-SUFFIX,anthemthegame.com
@@ -399,6 +400,9 @@ DOMAIN-SUFFIX,leaguoflegends.com
 DOMAIN-SUFFIX,learnwithleague.com
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,legendofzelda.com.cn
+DOMAIN-SUFFIX,limbuscompany.global
+DOMAIN-SUFFIX,limbuscompanyapi.com
+DOMAIN-SUFFIX,limbuscompanycdn.org
 DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,lol-europe.com
 DOMAIN-SUFFIX,lolclub.org
@@ -591,6 +595,7 @@ DOMAIN-SUFFIX,popcap.com
 DOMAIN-SUFFIX,priconne-redive.jp
 DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN-SUFFIX,projectapex.com
+DOMAIN-SUFFIX,projectmoon.studio
 DOMAIN-SUFFIX,protondb.com
 DOMAIN-SUFFIX,pubg.com
 DOMAIN-SUFFIX,pvp.net
@@ -685,6 +690,7 @@ DOMAIN-SUFFIX,simcity-buildit.com
 DOMAIN-SUFFIX,simcity.com
 DOMAIN-SUFFIX,skate2.com
 DOMAIN-SUFFIX,sketchfab.com
+DOMAIN-SUFFIX,skinswap.com
 DOMAIN-SUFFIX,skylanders.com
 DOMAIN-SUFFIX,sledgehammergames.com
 DOMAIN-SUFFIX,snk-corp.co.jp
@@ -735,6 +741,7 @@ DOMAIN-SUFFIX,steamdeck.com
 DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steaminventoryhelper.com
 DOMAIN-SUFFIX,steamos.cloud
+DOMAIN-SUFFIX,steampeek.hu
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steampowered.com.8686c.com
 DOMAIN-SUFFIX,steamserver.net

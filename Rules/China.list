@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「China」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.04 08:30:36
-# TOTAL: 6340
+# UPDATED: 2026.11.05 08:48:36
+# TOTAL: 6366
 
 # ======= 手动维护规则 ========
 # 沉浸式翻译
@@ -608,6 +608,7 @@ xtratime.qcomgeo2.com
 .alitrip.com
 .alittle-tea.com
 .aliunicorn.com
+.alivecdn.com
 .aliway.com
 .aliwork.com
 .aliwx.net
@@ -619,6 +620,7 @@ xtratime.qcomgeo2.com
 .allday.work
 .allhistory.com
 .alloyteam.com
+.allwinnertech.com
 .allyes.com
 .alookweb.com
 .aloys233.top
@@ -973,6 +975,7 @@ xtratime.qcomgeo2.com
 .buke999.com
 .bulicdn2.com
 .burningvocabulary.com
+.busyming.com
 .buydouke.com
 .buyjingxi.com
 .bvfcdn.com
@@ -1114,6 +1117,7 @@ xtratime.qcomgeo2.com
 .caiyunapp.com
 .caiyuncdn.com
 .calorietech.com
+.cambricon.com
 .camcard.com
 .camera360.com
 .camscanner.com
@@ -1885,6 +1889,7 @@ xtratime.qcomgeo2.com
 .doubanio.com
 .doubao-dev.com
 .doubao.com
+.doubaoapps.com
 .doubaocdn.com
 .doubo03.com
 .doucang.com
@@ -2115,6 +2120,9 @@ xtratime.qcomgeo2.com
 .fanxingliveshow.com
 .fastapi.net
 .fastcdn.com
+.favonis.cloud
+.favonis.com
+.favonis.space
 .faxingbao.com
 .fbank.com
 .fcapp.run
@@ -2522,6 +2530,7 @@ xtratime.qcomgeo2.com
 .haier.net
 .haiersmarthomes.com
 .hailuoai.com
+.haimian.com
 .hainanairlines.com
 .haishun.com
 .halvie.com
@@ -2642,12 +2651,14 @@ xtratime.qcomgeo2.com
 .hktheone.com
 .hlgdata.com
 .hlzqgs.com
+.hmxs.cn
 .hn-cbec.com
 .hnacargo.com
 .hnair.com
 .hnbntv.com
 .hnchasing.com
 .hndt.com
+.hnlshm.com
 .hnol.net
 .hnrcsc.com
 .hntv.tv
@@ -3751,6 +3762,7 @@ xtratime.qcomgeo2.com
 .maxjia.com
 .maxonesoft.com
 .mayi.com
+.mayibao.cn
 .mayihr.com
 .mayshijia.com
 .mbalib.com
@@ -3880,6 +3892,12 @@ xtratime.qcomgeo2.com
 .mmbang.com
 .mmbang.info
 .mmstat.com
+.mnc000.mcc460.pub.3gppnetwork.org
+.mnc002.mcc460.pub.3gppnetwork.org
+.mnc004.mcc460.pub.3gppnetwork.org
+.mnc007.mcc460.pub.3gppnetwork.org
+.mnc011.mcc460.pub.3gppnetwork.org
+.mnc015.mcc460.pub.3gppnetwork.org
 .mndqlib.net
 .mob.com
 .mobike.com
@@ -3937,6 +3955,7 @@ xtratime.qcomgeo2.com
 .mszdld.com
 .mszdld.net
 .mszq.com
+.mthreads.com
 .mti100.com
 .mtime.com
 .mting.info
@@ -4367,6 +4386,7 @@ xtratime.qcomgeo2.com
 .qianyierp.com
 .qianzhan.com
 .qiaobutang.com
+.qiaqiafood.com
 .qichacha.com
 .qichamao.com
 .qidian.com
@@ -4766,6 +4786,7 @@ xtratime.qcomgeo2.com
 .soufunimg.com
 .soulteary.com
 .souqian.com
+.southchip.com
 .southcn.com
 .southmoney.com
 .sparenode.com
@@ -4864,6 +4885,7 @@ xtratime.qcomgeo2.com
 .szu.app
 .szu.moe
 .szzfgjj.com
+.t-head.cn
 .t.tt
 .t00ls.cc
 .t00ls.net
@@ -5029,6 +5051,7 @@ xtratime.qcomgeo2.com
 .tendis.net
 .tengmed.com
 .tenpay.com
+.tenpayglobal.com
 .tenxcloud.com
 .tesoon.com
 .test-cignacmb.com
@@ -5635,6 +5658,8 @@ xtratime.qcomgeo2.com
 .wenxin-ge.com
 .werewolf.53site.com
 .west95582.com
+.wesure.cn
+.wesure100.com
 .weui.io
 .wework-studio.com
 .wf.pub
@@ -6346,6 +6371,7 @@ xtratime.qcomgeo2.com
 .zxxk.com
 .zybang.com
 .zyh365.com
+.zymls.com
 .zysn.net
 .zysou.com
 .zyyct.com
