@@ -1,11 +1,13 @@
 # NAME: 深巷有喵的「Microsoft」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.06 08:54:50
-# TOTAL: 848
+# UPDATED: 2026.11.07 08:01:04
+# TOTAL: 854
 
 # ======= 上游同步规则 ========
 DOMAIN,az764295.vo.msecnd.net
+DOMAIN,azure.microsoft.com
+DOMAIN,azuremarketplace.microsoft.com
 DOMAIN,azuremigrate.download.prss.microsoft.com
 DOMAIN,azuremigratetest.download.prss.microsoft.com
 DOMAIN,azurestackhub.download.prss.microsoft.com
@@ -22,13 +24,14 @@ DOMAIN,ctldl.windowsupdate.com
 DOMAIN,dc.applicationinsights.azure.com
 DOMAIN,dc.services.visualstudio.com
 DOMAIN,default.exp-tas.com
+DOMAIN,developer.microsoft.com
 DOMAIN,download.microsoft.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,dreamspark.download.prss.microsoft.com
 DOMAIN,dreamsparkuat.download.prss.microsoft.com
+DOMAIN,dtlgalleryint.cloudapp.net
 DOMAIN,edge.activity.windows.com
 DOMAIN,edge.microsoft.com
-DOMAIN,emoi-cncdn.bing.com
 DOMAIN,f.c2r.ts.cdn.office.net
 DOMAIN,iecvlist.microsoft.com
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
@@ -60,7 +63,10 @@ DOMAIN,officemktuat.download.prss.microsoft.com
 DOMAIN,oneocsp.microsoft.com
 DOMAIN,osrelease.download.prss.microsoft.com
 DOMAIN,packages.microsoft.com
+DOMAIN,poshtestgallery.cloudapp.net
 DOMAIN,prodforza.blob.core.windows.net
+DOMAIN,psg-int-centralus.cloudapp.net
+DOMAIN,psg-int-eastus.cloudapp.net
 DOMAIN,rink.hockeyapp.net
 DOMAIN,rsm.download.prss.microsoft.com
 DOMAIN,rt.services.visualstudio.com

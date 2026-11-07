@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「China」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.06 08:54:50
-# TOTAL: 6366
+# UPDATED: 2026.11.07 08:01:04
+# TOTAL: 6416
 
 # ======= 手动维护规则 ========
 # 沉浸式翻译
@@ -27,7 +27,6 @@ config.uca.cloud.unity3d.com
 # 猫点饭
 umami.mao.fan
 # ======= 上游同步规则 ========
-7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 api.alibabacloud.com
 api.blipsandchitz.me
 client.amplifi.com
@@ -84,6 +83,8 @@ xtratime.qcomgeo2.com
 .116cd.com
 .116cd.net
 .119you.com
+.120ask.com
+.120askimages.com
 .12306.com
 .123245.com
 .123254.com
@@ -509,6 +510,7 @@ xtratime.qcomgeo2.com
 .ahfda.com
 .ahitv.com
 .ai-guardrail.com
+.ai-indeed.com
 .ai-kaleidoscope.com
 .aiaa.org
 .aicdn.com
@@ -616,6 +618,7 @@ xtratime.qcomgeo2.com
 .alizhaopin.com
 .allawnfs.com
 .allawno.com
+.allawnofs.com
 .allawntech.com
 .allday.work
 .allhistory.com
@@ -753,6 +756,7 @@ xtratime.qcomgeo2.com
 .baihe.com
 .baijiayun.com
 .baike.com
+.baikemy.com
 .baikevod.com
 .baimiao.tech
 .baimiaoapp.com
@@ -764,6 +768,7 @@ xtratime.qcomgeo2.com
 .baltamatica.com
 .baltamatica.net
 .bamenzhushou.com
+.bangcle.com
 .bangongziyuan.com
 .bank-of-china.com
 .bankcomm.com
@@ -783,6 +788,7 @@ xtratime.qcomgeo2.com
 .battle.net
 .battlecare.net
 .baydn.com
+.bayescom.com
 .bazai.com
 .bbbcdns.com
 .bblmw.com
@@ -964,6 +970,7 @@ xtratime.qcomgeo2.com
 .brighticecream.com
 .broadcasthe.net
 .bsbsb.top
+.bseinfo.net
 .bsurl.cc
 .btghotels.com
 .btgtravel.com
@@ -1143,6 +1150,7 @@ xtratime.qcomgeo2.com
 .ccnew.com
 .ccrgt.com
 .cctalk.com
+.cctime.com
 .cctv.com
 .cctv4g.com
 .cctvpic.com
@@ -1314,6 +1322,7 @@ xtratime.qcomgeo2.com
 .chinafix.com
 .chinafph.com
 .chinahr.com
+.chinahtz.com
 .chinakaoyan.com
 .chinalawedu.com
 .chinalions.com
@@ -1353,6 +1362,7 @@ xtratime.qcomgeo2.com
 .chnfund.com
 .chnppmuseum.com
 .chntel.com
+.choiceform.com
 .chongbuluo.com
 .chongdiantou.com
 .chouti.com
@@ -1373,7 +1383,6 @@ xtratime.qcomgeo2.com
 .chunyuyisheng.com
 .chushi.cool
 .chushou.tv
-.chuyu.me
 .cibn.cc
 .cibntv.net
 .cicc.com
@@ -1540,6 +1549,7 @@ xtratime.qcomgeo2.com
 .cnmo.com
 .cnmooc.org
 .cnmstl.net
+.cnpharm.com
 .cnppa.org
 .cnpsec.com
 .cnsciedu.com
@@ -1615,6 +1625,7 @@ xtratime.qcomgeo2.com
 .cr-cts.com
 .cr173.com
 .cravatar.com
+.crecg.com
 .crggcn.com
 .crscm.com
 .crsky.com
@@ -1811,11 +1822,14 @@ xtratime.qcomgeo2.com
 .dingtalkapps.com
 .dingtalkcloud.com
 .dingxiang-inc.com
+.dinpay.com
 .diopic.net
 .discuz.net
 .discuz.org
 .dishu3.com
+.dittocdn.com
 .divoiotcloud.com
+.diyifanwen.com
 .diyiyou.com
 .diyring.cc
 .dizzylab.net
@@ -2355,6 +2369,7 @@ xtratime.qcomgeo2.com
 .ganjistatic1.com
 .gaode.com
 .gaodun.com
+.gaodunwangxiao.com
 .gaojidata.com
 .gaojiua.com
 .gaokao.com
@@ -2381,6 +2396,7 @@ xtratime.qcomgeo2.com
 .gei6.com
 .geilicdn.com
 .gelaiyun.net
+.gelonghui.com
 .geovisearth.com
 .gepush.com
 .getfeishu.com
@@ -2580,6 +2596,7 @@ xtratime.qcomgeo2.com
 .healthjd.com
 .heavenlywind.cc
 .hecdn.net
+.heepay.com
 .hefei.cc
 .heimadata.com
 .heisha.net
@@ -2651,10 +2668,10 @@ xtratime.qcomgeo2.com
 .hktheone.com
 .hlgdata.com
 .hlzqgs.com
-.hmxs.cn
 .hn-cbec.com
 .hnacargo.com
 .hnair.com
+.hnapay.com
 .hnbntv.com
 .hnchasing.com
 .hndt.com
@@ -2745,6 +2762,7 @@ xtratime.qcomgeo2.com
 .hujiang.com
 .hunaniptv.com
 .hunantv.com
+.hunliji.com
 .huochepiao.com
 .huocheso.com
 .huoshan.com
@@ -2920,7 +2938,6 @@ xtratime.qcomgeo2.com
 .imqq.com
 .imsyy.com
 .imweb.io
-.in.th
 .inanguapi.com
 .incopat.com
 .indeedpower.com
@@ -2963,6 +2980,7 @@ xtratime.qcomgeo2.com
 .irsnp.com
 .isd.com
 .isealsuite.com
+.ishansong.com
 .ishijue.com
 .ishumei.com
 .ishuqi.com
@@ -2985,6 +3003,7 @@ xtratime.qcomgeo2.com
 .itpub.net
 .itsk.com
 .ituchong.com
+.iuoooo.com
 .iuynfg.com
 .ivolces-test.com
 .ivolces.com
@@ -3043,6 +3062,7 @@ xtratime.qcomgeo2.com
 .jcloudvideo.com
 .jcloudvideo.net
 .jclps.com
+.jcrb.com
 .jd-app.com
 .jd-ex.com
 .jd-ex.net
@@ -3103,6 +3123,7 @@ xtratime.qcomgeo2.com
 .jduoduo.com
 .jdwl.com
 .jdx.com
+.jdzj.com
 .jet-ego.com
 .jet-logistics.com
 .jetlogistic.com
@@ -3112,16 +3133,19 @@ xtratime.qcomgeo2.com
 .jhgtgb.com
 .jhscm.com
 .jia.com
+.jiakaobaodian.com
 .jiameng.com
 .jianbihua.com
 .jiangningwater.com
 .jianguoyun.com
+.jianke.com
 .jianshu.com
 .jianshu.io
 .jianshuapi.com
 .jianying.com
 .jianyuweb.com
 .jianzhi8.com
+.jianzhimao.com
 .jiaodong.net
 .jiaoyimao.com
 .jiashule.com
@@ -3296,6 +3320,7 @@ xtratime.qcomgeo2.com
 .kaixin001.com
 .kaiyanapp.com
 .kajicam.com
+.kakamobi.com
 .kakaxing.com
 .kameng98.com
 .kanbox.com
@@ -3694,6 +3719,7 @@ xtratime.qcomgeo2.com
 .lunwengo.net
 .luojilab.com
 .luoo.net
+.luyong.com
 .luyouqi.com
 .lvfapiao.com
 .lvmama.com
@@ -3714,6 +3740,8 @@ xtratime.qcomgeo2.com
 .lydaas.net
 .lydass.net
 .lyihub.com
+.lynkco-test.com
+.lynkco.com
 .lz310.com
 .lzpipi.com
 .m1.run
@@ -3729,6 +3757,7 @@ xtratime.qcomgeo2.com
 .mahjongcup.com
 .mahjongcup.net
 .mai.tn
+.maiche.com
 .mail4399.com
 .maimemo.com
 .maimemostatus.com
@@ -3762,7 +3791,6 @@ xtratime.qcomgeo2.com
 .maxjia.com
 .maxonesoft.com
 .mayi.com
-.mayibao.cn
 .mayihr.com
 .mayshijia.com
 .mbalib.com
@@ -3789,6 +3817,7 @@ xtratime.qcomgeo2.com
 .medicexam.net
 .meegobeta.com
 .megawords.cc
+.megvii.com
 .mei.com
 .meican.com
 .meicanstatic.com
@@ -3961,6 +3990,7 @@ xtratime.qcomgeo2.com
 .mting.info
 .mtyun.com
 .mubu.com
+.mugeda.com
 .mukewang.com
 .multilingual-volc.com
 .mumayi.com
@@ -4083,6 +4113,7 @@ xtratime.qcomgeo2.com
 .nn.com
 .nnbooster.com
 .nnthink.com
+.nocode.com
 .nomuraoi-sec.com
 .nongfuspring.com
 .novelfm.com
@@ -4247,6 +4278,7 @@ xtratime.qcomgeo2.com
 .pgzs.com
 .pharmacodia.com
 .philanthropy.xin
+.phirda.com
 .phoenixmiles.com
 .phpcomposer.com
 .phpweblog.net
@@ -4303,6 +4335,7 @@ xtratime.qcomgeo2.com
 .privateapi.xyz
 .privatehd.to
 .proximabeta.com
+.przwt.com
 .psbc.com
 .pstatp.com
 .puata.info
@@ -4473,6 +4506,7 @@ xtratime.qcomgeo2.com
 .quehu.com
 .qugame.com
 .quklive.com
+.qunaer.com
 .qunar.com
 .qunarcdn.com
 .qunarzz.com
@@ -4607,6 +4641,8 @@ xtratime.qcomgeo2.com
 .seniverse.com
 .senlinjimore.com
 .senmuse.com
+.senseavatar.com
+.sensetime.com
 .servicewechat.com
 .sevencdn.com
 .sf-airlines.com
@@ -4646,6 +4682,7 @@ xtratime.qcomgeo2.com
 .shelter-china.com
 .shelterdome.net
 .shengdaosoft.com
+.shengpay.com
 .shengqugames.com
 .shengyi.ai
 .shengyizhuanjia.com
@@ -4696,6 +4733,7 @@ xtratime.qcomgeo2.com
 .shuqireader.com
 .shuqistat.com
 .shutcm.com
+.shuwen.com
 .shuxinyc.com
 .shyhhema.com
 .shyxhy.com
@@ -4885,7 +4923,6 @@ xtratime.qcomgeo2.com
 .szu.app
 .szu.moe
 .szzfgjj.com
-.t-head.cn
 .t.tt
 .t00ls.cc
 .t00ls.net
@@ -5087,6 +5124,7 @@ xtratime.qcomgeo2.com
 .thunis.com
 .tiancity.com
 .tiancitycdn.com
+.tianditao.com
 .tianhw.top
 .tianjimedia.com
 .tianjin-air.com
@@ -5105,6 +5143,7 @@ xtratime.qcomgeo2.com
 .tidb.ai
 .tidb.net
 .tidbcloud.com
+.tidesight.com
 .tieba.com
 .tiebaimg.com
 .tietuku.com
@@ -5234,6 +5273,7 @@ xtratime.qcomgeo2.com
 .tuchong.com
 .tudou.com
 .tuer123.com
+.tuhu.org
 .tuicool.com
 .tuiwen.net
 .tujia.com
@@ -5347,6 +5387,7 @@ xtratime.qcomgeo2.com
 .upcdn.net
 .upe.net
 .upfos.com
+.upsort.com
 .upyun.com
 .urselect.com
 .urumqi-air.com
@@ -5658,7 +5699,6 @@ xtratime.qcomgeo2.com
 .wenxin-ge.com
 .werewolf.53site.com
 .west95582.com
-.wesure.cn
 .wesure100.com
 .weui.io
 .wework-studio.com
@@ -5826,6 +5866,7 @@ xtratime.qcomgeo2.com
 .xiaoe-tech.com
 .xiaogouh5.com
 .xiaohongshu.com
+.xiaohuanxiong.com
 .xiaojukeji.com
 .xiaoka.tv
 .xiaokaxiu.com
@@ -5885,7 +5926,9 @@ xtratime.qcomgeo2.com
 .xinhuanet.com
 .xinhuashudian.com
 .xinhuaxmt.com
+.xinhuazhiyun.com
 .xiniu.com
+.xinli001.com
 .xinlingshou.com
 .xinlishumeng.com
 .xinmeng.info
@@ -5981,6 +6024,7 @@ xtratime.qcomgeo2.com
 .yctdyy.com
 .ycwb.com
 .ydamc.com
+.ydshengxue.com
 .ydstatic.com
 .yeah.net
 .yebaojiasu.com
@@ -6058,6 +6102,8 @@ xtratime.qcomgeo2.com
 .yo9.com
 .yocajr.com
 .yokaverse.com
+.yonyou.com
+.yonyoucloud.com
 .yooc.me
 .yoojia.com
 .youba.com
@@ -6138,6 +6184,7 @@ xtratime.qcomgeo2.com
 .yundalog.com
 .yundaltl.com
 .yundasys.com
+.yundouxueyuan.com
 .yundun.com
 .yundzh.com
 .yunfancdn.com
@@ -6176,6 +6223,7 @@ xtratime.qcomgeo2.com
 .yximgs.com
 .yxwsgame.com
 .yy.com
+.yybip.com
 .yyds.co
 .yyshub.top
 .yystatic.com
@@ -6249,10 +6297,12 @@ xtratime.qcomgeo2.com
 .zhibo8.cc
 .zhibo8.com
 .zhichanli.com
+.zhichi.com
 .zhidemai.com
 .zhidx.com
 .zhiexa.com
 .zhifang.com
+.zhiguf.com
 .zhihang100.com
 .zhihu.com
 .zhihuishu.com

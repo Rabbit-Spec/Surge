@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「Proxy」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.06 08:54:50
-# TOTAL: 24498
+# UPDATED: 2026.11.07 08:01:04
+# TOTAL: 24496
 
 # ======= 手动维护规则 ========
 # SNBFORUMS
@@ -371,7 +371,6 @@ DOMAIN,cacerts.digicert.com
 DOMAIN,cache-05.filehippo.net
 DOMAIN,cache.hackedfreegames.com
 DOMAIN,cache.industry.siemens.com
-DOMAIN,cache.ip-api.com
 DOMAIN,cache.mapcomplete.org
 DOMAIN,cache.omnicalculator.com
 DOMAIN,cached.rebuyengine.com
@@ -3407,7 +3406,6 @@ DOMAIN-SUFFIX,antd.org
 DOMAIN-SUFFIX,anthemgame.com
 DOMAIN-SUFFIX,anthemthegame.com
 DOMAIN-SUFFIX,anthonycalzadilla.com
-DOMAIN-SUFFIX,anthropic.auth0.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,anthropic.team
 DOMAIN-SUFFIX,anti1984.com
@@ -3462,7 +3460,6 @@ DOMAIN-SUFFIX,api.moomoobull.com
 DOMAIN-SUFFIX,api.news
 DOMAIN-SUFFIX,api.proxlet.com
 DOMAIN-SUFFIX,api.shuaiapi.com
-DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,apiary.io
 DOMAIN-SUFFIX,apibay.org
 DOMAIN-SUFFIX,apigee.com
@@ -8573,7 +8570,6 @@ DOMAIN-SUFFIX,editorx.com
 DOMAIN-SUFFIX,edmontonservice.com
 DOMAIN-SUFFIX,edninfo.com
 DOMAIN-SUFFIX,edns.biz
-DOMAIN-SUFFIX,edns.ip-api.com
 DOMAIN-SUFFIX,edoors.com
 DOMAIN-SUFFIX,edu
 DOMAIN-SUFFIX,edu-research.org
@@ -12795,6 +12791,7 @@ DOMAIN-SUFFIX,iosinthecar.com
 DOMAIN-SUFFIX,iotinactionevents.com
 DOMAIN-SUFFIX,iownyour.biz
 DOMAIN-SUFFIX,iownyour.org
+DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ip-scan.adspower.net
 DOMAIN-SUFFIX,ip73.com
 DOMAIN-SUFFIX,ipa-iphone.net
@@ -14091,6 +14088,9 @@ DOMAIN-SUFFIX,lilaoshibushinilaoshi.com
 DOMAIN-SUFFIX,lilhumpers.com
 DOMAIN-SUFFIX,liliav.com
 DOMAIN-SUFFIX,lilith-soft.com
+DOMAIN-SUFFIX,limbuscompany.global
+DOMAIN-SUFFIX,limbuscompanyapi.com
+DOMAIN-SUFFIX,limbuscompanycdn.org
 DOMAIN-SUFFIX,limelight.com
 DOMAIN-SUFFIX,limertw.cc
 DOMAIN-SUFFIX,limeteensex.com
@@ -19640,7 +19640,7 @@ DOMAIN-SUFFIX,skillbox.pro
 DOMAIN-SUFFIX,skillshare.com
 DOMAIN-SUFFIX,skimtube.com
 DOMAIN-SUFFIX,skinstrip.net
-DOMAIN-SUFFIX,skk.moe
+DOMAIN-SUFFIX,skinswap.com
 DOMAIN-SUFFIX,skokka.com
 DOMAIN-SUFFIX,sksarab.top
 DOMAIN-SUFFIX,skunkgirl.cc
@@ -22451,7 +22451,6 @@ DOMAIN-SUFFIX,vocn.tv
 DOMAIN-SUFFIX,vocus.cc
 DOMAIN-SUFFIX,vod360.net
 DOMAIN-SUFFIX,vodafone.com
-DOMAIN-SUFFIX,vodafoneziggo.nl
 DOMAIN-SUFFIX,voicettank.org
 DOMAIN-SUFFIX,vokevr.com
 DOMAIN-SUFFIX,vol.moe
@@ -24263,7 +24262,6 @@ DOMAIN-SUFFIX,zi5.me
 DOMAIN-SUFFIX,zibacity.com
 DOMAIN-SUFFIX,ziddu.com
 DOMAIN-SUFFIX,ziffstatic.com
-DOMAIN-SUFFIX,ziggo.nl
 DOMAIN-SUFFIX,ziglang.org
 DOMAIN-SUFFIX,zillionk.com
 DOMAIN-SUFFIX,zind.cloud
