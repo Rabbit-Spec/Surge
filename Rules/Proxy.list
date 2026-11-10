@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「Proxy」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.09 07:32:51
-# TOTAL: 24496
+# UPDATED: 2026.11.10 10:37:32
+# TOTAL: 24500
 
 # ======= 手动维护规则 ========
 # SNBFORUMS
@@ -1002,6 +1002,7 @@ DOMAIN,heroicons.com
 DOMAIN,hips.hearstapps.com
 DOMAIN,home.integrate.com
 DOMAIN,hpstore.corpmerchandise.com
+DOMAIN,http-intake.logs.us5.datadoghq.com
 DOMAIN,hub-assets.displaycal.net
 DOMAIN,hub.slarker.me
 DOMAIN,hubspotonwebflow.com
@@ -10850,6 +10851,7 @@ DOMAIN-SUFFIX,got-game.org
 DOMAIN-SUFFIX,gotblop.com
 DOMAIN-SUFFIX,gotcosmos.com
 DOMAIN-SUFFIX,gotgeeks.com
+DOMAIN-SUFFIX,gotinder.com
 DOMAIN-SUFFIX,gotquestions.org
 DOMAIN-SUFFIX,gotraffic.net
 DOMAIN-SUFFIX,gotrusted.com
@@ -10928,6 +10930,7 @@ DOMAIN-SUFFIX,grep.app
 DOMAIN-SUFFIX,gridaware.app
 DOMAIN-SUFFIX,grindr.com
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grokbot.com
 DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,grooby.com
 DOMAIN-SUFFIX,groq.com
@@ -21108,6 +21111,7 @@ DOMAIN-SUFFIX,timsah.com
 DOMAIN-SUFFIX,timtales.com
 DOMAIN-SUFFIX,tinc-vpn.org
 DOMAIN-SUFFIX,tinder.com
+DOMAIN-SUFFIX,tindersparks.com
 DOMAIN-SUFFIX,tindie.com
 DOMAIN-SUFFIX,tindiemedia.com
 DOMAIN-SUFFIX,tiney.com

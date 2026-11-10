@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「Microsoft」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.09 07:32:51
-# TOTAL: 854
+# UPDATED: 2026.11.10 10:37:32
+# TOTAL: 855
 
 # ======= 上游同步规则 ========
 DOMAIN,az764295.vo.msecnd.net
@@ -65,6 +65,7 @@ DOMAIN,osrelease.download.prss.microsoft.com
 DOMAIN,packages.microsoft.com
 DOMAIN,poshtestgallery.cloudapp.net
 DOMAIN,prodforza.blob.core.windows.net
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 DOMAIN,psg-int-centralus.cloudapp.net
 DOMAIN,psg-int-eastus.cloudapp.net
 DOMAIN,rink.hockeyapp.net
