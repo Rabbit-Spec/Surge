@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「China」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.11 08:30:08
-# TOTAL: 6416
+# UPDATED: 2026.11.12 09:51:16
+# TOTAL: 6395
 
 # ======= 手动维护规则 ========
 # 沉浸式翻译
@@ -27,10 +27,8 @@ config.uca.cloud.unity3d.com
 # 猫点饭
 umami.mao.fan
 # ======= 上游同步规则 ========
-api.alibabacloud.com
 api.blipsandchitz.me
 client.amplifi.com
-cn.alibabacloud.com
 cn.download.nvidia.com
 config.ubnt.com
 ctdsb.clouddiffuse.xyz
@@ -45,8 +43,6 @@ kms.03k.org
 media.cdn.queniuqe.com
 ocsp.globalsign.com
 ocsp2.globalsign.com
-status.alibabacloud.com
-steamcommunity-a.akamaihd.net
 time.izatcloud.net
 time.xtracloud.net
 www.layuicdn.com
@@ -785,7 +781,6 @@ xtratime.qcomgeo2.com
 .baozoumanhua.com
 .baseopendev.com
 .batchat.com
-.battle.net
 .battlecare.net
 .baydn.com
 .bayescom.com
@@ -1525,7 +1520,6 @@ xtratime.qcomgeo2.com
 .cmpassport.com
 .cmpay.com
 .cmread.com
-.cn
 .cn.pool.ntp.org
 .cnanzhi.com
 .cnb.cool
@@ -1810,7 +1804,6 @@ xtratime.qcomgeo2.com
 .didialift.com
 .didichuxing.com
 .didistatic.com
-.digicert.com
 .digitalcnzz.com
 .digitaling.com
 .dili360.com
@@ -2315,8 +2308,6 @@ xtratime.qcomgeo2.com
 .funnycore.com
 .funshion.com
 .funshion.net
-.futu5.com
-.futunn.com
 .fuwai.com
 .fuwj.com
 .fxbaogao.com
@@ -2356,7 +2347,6 @@ xtratime.qcomgeo2.com
 .gameabc.com
 .gamebonfire.com
 .gameitop.com
-.gameloft.com
 .gameloop.com
 .gamemei.com
 .gamepp.com
@@ -2659,7 +2649,6 @@ xtratime.qcomgeo2.com
 .hismarttv.com
 .hitevision-solutions.com
 .hitv.com
-.hiwifi.com
 .hiyd.com
 .hjapi.com
 .hkgcloudcs.com
@@ -3628,7 +3617,6 @@ xtratime.qcomgeo2.com
 .liblib.cloud
 .liblib.tv
 .libvideo.com
-.licdn.com
 .liepin.com
 .lietou-static.com
 .lietou.com
@@ -3660,8 +3648,6 @@ xtratime.qcomgeo2.com
 .liunn.com
 .liuxiaoer.com
 .liuxing.com
-.live.com
-.live.net
 .live800.com
 .livecdnstatic.com
 .livechina.com
@@ -3969,16 +3955,13 @@ xtratime.qcomgeo2.com
 .mrtdephoto.net
 .mrw.so
 .mryys.com
-.ms
 .msanjia.com
 .msauth.net
 .mscbsc.com
 .msecnd.net
-.msedge.net
 .mshare.cc
 .mslmc.net
 .msmartlife.com
-.msn.com
 .msocdn.com
 .msstatic.com
 .mszdld.com
@@ -4098,6 +4081,7 @@ xtratime.qcomgeo2.com
 .nfpeople.com
 .ngabbs.com
 .ngacn.cc
+.nia-teams.com
 .nic.xin
 .nicaifu.com
 .nicezhuanye.com
@@ -4164,7 +4148,6 @@ xtratime.qcomgeo2.com
 .oneapm.com
 .onedns.net
 .onegreen.net
-.onenote.com
 .onenote.net
 .oneplus.com
 .oneplus.net
@@ -4909,7 +4892,6 @@ xtratime.qcomgeo2.com
 .sxtvs.com
 .sxyygh.com
 .sydw8.com
-.symcd.com
 .sys321.com
 .syxlgame.com
 .sz-jlc.com
@@ -5245,7 +5227,6 @@ xtratime.qcomgeo2.com
 .tracup.com
 .trademessenger.com
 .trae.guru
-.trello.com
 .trellocdn.com
 .tripcdn.com
 .tritoninfo.net
@@ -5972,7 +5953,6 @@ xtratime.qcomgeo2.com
 .xsa239.com
 .xsgtvacct.com
 .xslb.net
-.xteko.com
 .xuanchuanyi.com
 .xue51.com
 .xueche.com
@@ -6378,7 +6358,6 @@ xtratime.qcomgeo2.com
 .znnu.com
 .znztv.com
 .zofund.com
-.zoho.com
 .zol.com
 .zongheng.com
 .zpb365.com
