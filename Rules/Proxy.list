@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「Proxy」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.12 09:51:16
-# TOTAL: 24479
+# UPDATED: 2026.11.13 08:58:18
+# TOTAL: 24481
 
 # ======= 手动维护规则 ========
 # SNBFORUMS
@@ -49,6 +49,7 @@ DOMAIN,github-production-repository-file-5c1aeb.s3.amazonaws.com
 DOMAIN,github-production-repository-image-32fea6.s3.amazonaws.com
 DOMAIN,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
 DOMAIN,github-production-user-asset-6210df.s3.amazonaws.com
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 DOMAIN,productionresultssa0.blob.core.windows.net
 DOMAIN,productionresultssa1.blob.core.windows.net
 DOMAIN,productionresultssa10.blob.core.windows.net
@@ -1227,6 +1228,7 @@ DOMAIN,info.knak.com
 DOMAIN,instafeed.nfcube.com
 DOMAIN,int.mwbbiz.com
 DOMAIN,interwiki.scpwikicn.com
+DOMAIN,iprsoftwaremedia.com
 DOMAIN,ipxy.io
 DOMAIN,irp-cdn.multiscreensite.com
 DOMAIN,isitmaintained.com
