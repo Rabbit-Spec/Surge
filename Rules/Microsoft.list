@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「Microsoft」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.17 10:51:05
-# TOTAL: 855
+# UPDATED: 2026.11.18 10:16:47
+# TOTAL: 852
 
 # ======= 上游同步规则 ========
 DOMAIN,az764295.vo.msecnd.net
@@ -15,6 +15,7 @@ DOMAIN,azurestackhubuat.download.prss.microsoft.com
 DOMAIN,b.c2r.ts.cdn.office.net
 DOMAIN,bingsettingssearch.trafficmanager.net
 DOMAIN,bj1.api.bing.com
+DOMAIN,builds.dotnet.microsoft.com
 DOMAIN,cbdstest.download.prss.microsoft.com
 DOMAIN,cn.windowssearch.com
 DOMAIN,collaborate.download.prss.microsoft.com
@@ -25,6 +26,7 @@ DOMAIN,dc.applicationinsights.azure.com
 DOMAIN,dc.services.visualstudio.com
 DOMAIN,default.exp-tas.com
 DOMAIN,developer.microsoft.com
+DOMAIN,dotnetcli.trafficmanager.net
 DOMAIN,download.microsoft.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,dreamspark.download.prss.microsoft.com
@@ -81,6 +83,7 @@ DOMAIN,statics.teams.cdn.office.net
 DOMAIN,storecorefulfillment.download.prss.microsoft.com
 DOMAIN,storeedge.microsoft.com
 DOMAIN,storeedgefd.dsx.mp.microsoft.com
+DOMAIN,sundry-star-net-geo.trafficmanager.net
 DOMAIN,surface.download.prss.microsoft.com
 DOMAIN,surface.downloads.prss.microsoft.com
 DOMAIN,vlportal.download.prss.microsoft.com
@@ -148,7 +151,6 @@ DOMAIN-SUFFIX,azcrmc.cn
 DOMAIN-SUFFIX,azk8s.cn
 DOMAIN-SUFFIX,aznbcontent.cn
 DOMAIN-SUFFIX,aztask.cn
-DOMAIN-SUFFIX,azure
 DOMAIN-SUFFIX,azure-api.cn
 DOMAIN-SUFFIX,azure-api.net
 DOMAIN-SUFFIX,azure-apihub.cn
@@ -233,7 +235,6 @@ DOMAIN-SUFFIX,biing.com
 DOMAIN-SUFFIX,binads.com
 DOMAIN-SUFFIX,binb.com
 DOMAIN-SUFFIX,binf.com
-DOMAIN-SUFFIX,bing
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,bing.net
@@ -360,7 +361,6 @@ DOMAIN-SUFFIX,here.net
 DOMAIN-SUFFIX,heremaps.cn
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,hololens.com
-DOMAIN-SUFFIX,hotmail
 DOMAIN-SUFFIX,hotmail.co
 DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,hotmail.eu
@@ -418,7 +418,6 @@ DOMAIN-SUFFIX,mepn.com
 DOMAIN-SUFFIX,mesh.com
 DOMAIN-SUFFIX,mgmt-azure-api.cn
 DOMAIN-SUFFIX,microbit.org
-DOMAIN-SUFFIX,microsoft
 DOMAIN-SUFFIX,microsoft-falcon.io
 DOMAIN-SUFFIX,microsoft-give.com
 DOMAIN-SUFFIX,microsoft-int.com
@@ -643,7 +642,6 @@ DOMAIN-SUFFIX,o365weve-ppe.com
 DOMAIN-SUFFIX,o365weve.com
 DOMAIN-SUFFIX,oaspapps.com
 DOMAIN-SUFFIX,oaspapps.com.akadns.net
-DOMAIN-SUFFIX,office
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,office365-net.cn
@@ -729,7 +727,6 @@ DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,signalr.net
 DOMAIN-SUFFIX,skydrive.wns.windows.com
-DOMAIN-SUFFIX,skype
 DOMAIN-SUFFIX,skype-edf.akadns.net
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skype.net

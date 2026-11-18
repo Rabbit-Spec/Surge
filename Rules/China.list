@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「China」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.17 10:51:05
-# TOTAL: 6395
+# UPDATED: 2026.11.18 10:16:47
+# TOTAL: 6403
 
 # ======= 手动维护规则 ========
 # 沉浸式翻译
@@ -694,6 +694,7 @@ xtratime.qcomgeo2.com
 .appsimg.com
 .appvipshop.com
 .arco.design
+.arknights.com
 .arpun.com
 .asczwa.com
 .asczxcefsv.com
@@ -2618,6 +2619,7 @@ xtratime.qcomgeo2.com
 .hf-aw.com
 .hftfund.com
 .hfx.net
+.hgto.cc
 .hhtravel.com
 .hiaiabc.com
 .hiascend.com
@@ -2801,9 +2803,12 @@ xtratime.qcomgeo2.com
 .hxnews.com
 .hxsd.com
 .hybiome.com
+.hycdn.com
 .hydun.com
 .hypercachenet.com
 .hypercachenode.com
+.hypergryph.com
+.hypergryph.net
 .hzchengdun.com
 .hzchengdun.net
 .hzdtv.tv
@@ -4125,6 +4130,7 @@ xtratime.qcomgeo2.com
 .obricclouddw.com
 .oceancloudapi.com
 .oceanengine.com
+.octavedge.com
 .ocwms.com
 .oeeee.com
 .oend.net
@@ -4745,6 +4751,8 @@ xtratime.qcomgeo2.com
 .sjfls6.com
 .sjwyx.com
 .skimit.net
+.skland.com
+.skland.net
 .sksight.com
 .skycn.com
 .skypixel.com

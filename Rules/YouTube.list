@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「YouTube」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.17 10:51:05
-# TOTAL: 190
+# UPDATED: 2026.11.18 10:16:47
+# TOTAL: 189
 
 # ======= 上游同步规则 ========
 DOMAIN,youtubei.googleapis.com
@@ -18,7 +18,6 @@ DOMAIN-SUFFIX,video.google.com
 DOMAIN-SUFFIX,wide-youtube.l.google.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtube-ui.l.google.com
 DOMAIN-SUFFIX,youtube.ae

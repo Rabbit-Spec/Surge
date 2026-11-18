@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「Proxy」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.17 10:51:05
-# TOTAL: 24483
+# UPDATED: 2026.11.18 10:16:47
+# TOTAL: 24488
 
 # ======= 手动维护规则 ========
 # SNBFORUMS
@@ -350,6 +350,7 @@ DOMAIN,brand-sdk.kmsmep.com
 DOMAIN,brandwidgets.outtra.com
 DOMAIN,bucket.noy.asia
 DOMAIN,bucket1.notaku.so
+DOMAIN,builds.dotnet.microsoft.com
 DOMAIN,bundle.5gtb.com
 DOMAIN,bundle.9gtb.com
 DOMAIN,bundle.dyn-rev.app
@@ -1316,6 +1317,7 @@ DOMAIN,media.cleanshot.cloud
 DOMAIN,media.convertkit.com
 DOMAIN,media.currys.biz
 DOMAIN,media.daily.dev
+DOMAIN,media.datacamp.com
 DOMAIN,media.datacenterdynamics.com
 DOMAIN,media.e4le.me
 DOMAIN,media.fidoalliance.org
@@ -1736,6 +1738,7 @@ DOMAIN,static.j51.net
 DOMAIN,static.javhd.com
 DOMAIN,static.jup.ag
 DOMAIN,static.k2s.cc
+DOMAIN,static.karousell.com
 DOMAIN,static.klaviyo.com
 DOMAIN,static.licdn.com
 DOMAIN,static.lwn.net
@@ -7276,6 +7279,7 @@ DOMAIN-SUFFIX,cyberghostvpn.com
 DOMAIN-SUFFIX,cybermondaybeats4sale.com
 DOMAIN-SUFFIX,cyberpunk.net
 DOMAIN-SUFFIX,cyberx.com
+DOMAIN-SUFFIX,cygames.com
 DOMAIN-SUFFIX,cygwin.com
 DOMAIN-SUFFIX,cylink.pro
 DOMAIN-SUFFIX,cylink0122.icu
@@ -18497,6 +18501,7 @@ DOMAIN-SUFFIX,releaseinternational.org
 DOMAIN-SUFFIX,religionnews.com
 DOMAIN-SUFFIX,religioustolerance.org
 DOMAIN-SUFFIX,remirepo.net
+DOMAIN-SUFFIX,remna.dev
 DOMAIN-SUFFIX,renchead.com
 DOMAIN-SUFFIX,render.com
 DOMAIN-SUFFIX,renderingtoolkit.org
