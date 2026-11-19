@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「China」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.18 10:16:47
-# TOTAL: 6403
+# UPDATED: 2026.11.19 09:48:27
+# TOTAL: 6405
 
 # ======= 手动维护规则 ========
 # 沉浸式翻译
@@ -149,6 +149,8 @@ xtratime.qcomgeo2.com
 .1nongjing.com
 .1ppt.com
 .1ting.com
+.1y.com
+.1ycdn.com
 .1zhe.com
 .20130123.com
 .21cn.com
