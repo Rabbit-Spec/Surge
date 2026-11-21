@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「China」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.20 09:43:21
-# TOTAL: 6405
+# UPDATED: 2026.11.21 09:16:54
+# TOTAL: 6423
 
 # ======= 手动维护规则 ========
 # 沉浸式翻译
@@ -123,6 +123,7 @@ xtratime.qcomgeo2.com
 .16rd.com
 .17173.com
 .17173cdn.com
+.172.com
 .172mix.com
 .178.com
 .178linux.com
@@ -148,6 +149,7 @@ xtratime.qcomgeo2.com
 .1kkk.com
 .1nongjing.com
 .1ppt.com
+.1qianbao.com
 .1ting.com
 .1y.com
 .1ycdn.com
@@ -254,6 +256,7 @@ xtratime.qcomgeo2.com
 .3h3.com
 .3songshu.com
 .3yx.com
+.4008000000.com
 .4008117117.com
 .4008823823.com
 .40407.com
@@ -547,6 +550,7 @@ xtratime.qcomgeo2.com
 .aiyunxiao.com
 .aizgtc.com
 .aizhan.com
+.ajkimg.com
 .ajzq.com
 .aka815.net
 .akadns.net
@@ -759,6 +763,8 @@ xtratime.qcomgeo2.com
 .baikevod.com
 .baimiao.tech
 .baimiaoapp.com
+.baishan.com
+.baishancloud.com
 .baishinetwork.com
 .baitiao.com
 .baixing.com
@@ -3590,6 +3596,7 @@ xtratime.qcomgeo2.com
 .lenovocloudos.com
 .lenovoeservice.com
 .lenovofile.com
+.lenovofuturecenter.com
 .lenovogame.com
 .lenovoimage.com
 .lenovomm.com
@@ -3708,6 +3715,7 @@ xtratime.qcomgeo2.com
 .lufax.com
 .lufaxcdn.com
 .lufunds.com
+.lujincaifu.com
 .lumiai.com
 .lunwengo.net
 .luojilab.com
@@ -3890,6 +3898,7 @@ xtratime.qcomgeo2.com
 .minapp.com
 .mincdn.com
 .mingxuan.store
+.mingyuanfund.com
 .mingyuanyun.com
 .minhangshi.com
 .minimaxi.com
@@ -4223,6 +4232,7 @@ xtratime.qcomgeo2.com
 .p2peye.com
 .p4pfile.com
 .p5w.net
+.pacfc.com
 .pacmantwo.com
 .pagescube.com
 .paidui.com
@@ -4468,6 +4478,7 @@ xtratime.qcomgeo2.com
 .qmniu.com
 .qnsdk.com
 .qnssl.com
+.qpmcn.com
 .qq.cn.com
 .qq.com
 .qq.design
@@ -5042,6 +5053,7 @@ xtratime.qcomgeo2.com
 .tencent.com
 .tencent.design
 .tencent.net
+.tencentads.com
 .tencentapps.com
 .tencentbyod.com
 .tencentcdb.com
@@ -5241,6 +5253,7 @@ xtratime.qcomgeo2.com
 .tripcdn.com
 .tritoninfo.net
 .trjcn.com
+.trpcdn.com
 .trpcdn.net
 .trunktech.com
 .trustasia.com
@@ -6062,6 +6075,7 @@ xtratime.qcomgeo2.com
 .yinxiang.com
 .yinyuetai.com
 .yinzhaowang.com
+.yiqianbao.com
 .yiqifa.com
 .yiqifa.org
 .yisou.com
@@ -6128,6 +6142,8 @@ xtratime.qcomgeo2.com
 .yoyou.com
 .ypppt.com
 .yqb.com
+.yqbimg.net
+.yqbmall.com
 .yqkk.link
 .yrz.name
 .ys7.com
@@ -6277,6 +6293,8 @@ xtratime.qcomgeo2.com
 .zhanzhang.net
 .zhaodanji.com
 .zhaokao.net
+.zhaoliangji.com
+.zhaoliangjipc.com
 .zhaomishijie.com
 .zhaopin.com
 .zhcw.com
