@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「China」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.26 10:43:10
-# TOTAL: 6423
+# UPDATED: 2026.11.27 10:43:34
+# TOTAL: 6431
 
 # ======= 手动维护规则 ========
 # 沉浸式翻译
@@ -1383,6 +1383,7 @@ xtratime.qcomgeo2.com
 .chujingapp.com
 .chunbo.com
 .chunboimg.com
+.chunithm.wahlap.com
 .chunyu.mobi
 .chunyuyisheng.com
 .chushi.cool
@@ -2034,6 +2035,7 @@ xtratime.qcomgeo2.com
 .ebtrust.com
 .eceshi.com
 .echargenet.com
+.echooai.com
 .ecitic.com
 .ecitic.net
 .ecjobhome.com
@@ -2139,7 +2141,9 @@ xtratime.qcomgeo2.com
 .favonis.cloud
 .favonis.com
 .favonis.space
+.faw-vw.com
 .faxingbao.com
+.fazhipro.com
 .fbank.com
 .fcapp.run
 .fcbox.com
@@ -2848,6 +2852,7 @@ xtratime.qcomgeo2.com
 .icbcstandardbank.com
 .icbcstandardresources.com
 .icbcstandardsecurities.com
+.icc.link
 .iccvlog.com
 .icedropper.com
 .ichangtou.com
@@ -3760,6 +3765,7 @@ xtratime.qcomgeo2.com
 .mai.tn
 .maiche.com
 .mail4399.com
+.maimai.wahlap.com
 .maimemo.com
 .maimemostatus.com
 .maindown4399.com
@@ -4586,6 +4592,7 @@ xtratime.qcomgeo2.com
 .rwkv.com
 .rzrc114.com
 .s-reader.com
+.saasfz.com
 .saasops.tech
 .saayaa.com
 .saduck.top
@@ -5105,6 +5112,7 @@ xtratime.qcomgeo2.com
 .tfzq.com
 .tgbus.com
 .tggfl.com
+.tgk-wcaime.wahlap.com
 .tgovcloud.com
 .tgpro.top
 .tgprocs.net
@@ -5622,6 +5630,7 @@ xtratime.qcomgeo2.com
 .vxhcm.com
 .vxo7tu.com
 .vzuu.com
+.wahlap.net
 .waifushangcheng.com
 .wali.com
 .wallstcn.com
@@ -5916,7 +5925,6 @@ xtratime.qcomgeo2.com
 .xiguaapp.com
 .xiguashipin.net
 .xiguavideo.net
-.xihuan
 .xilu.com
 .ximalaya.com
 .xin.xin
