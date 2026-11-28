@@ -1,0 +1,13 @@
+name: Debug-MagicRule
+
+on:
+  workflow_dispatch:
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Debug MagicRule in Actions
+        run: |
+          curl -sS -D - -o /dev/null \
+            "https://magicrule.pages.dev/data/_shared/artifacts/China_domain-set_beb3d5e7a3bf4d87.list"
