@@ -7,7 +7,11 @@ jobs:
   debug:
     runs-on: ubuntu-latest
     steps:
-      - name: Debug MagicRule in Actions
+      - name: Debug YouTube in Actions
         run: |
-          curl -sS -D - -o /dev/null \
-            "https://magicrule.pages.dev/data/_shared/artifacts/China_domain-set_beb3d5e7a3bf4d87.list"
+          curl -sS -D /tmp/headers.txt -o /tmp/body.txt \
+            "https://magicrule.pages.dev/data/_shared/artifacts/YouTube_rules_329ca26de78c21fe.list"
+          echo "=== HEADERS ==="
+          cat /tmp/headers.txt
+          echo "=== BODY (first 5 lines) ==="
+          head -n 5 /tmp/body.txt
